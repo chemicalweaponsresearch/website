@@ -2,14 +2,22 @@ name: "chemical_weapons"
 
 output_dir: "docs"
 
+navbar:
+  title: "CWRC"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Open Letter"
+      href: moratorium_letter.html
+
 output:
   html_document:
     highlight: tango
-    theme: darkly 
+    theme: flatly 
     include:
       after_body: footer.html
     css: styles.css
-    toc: true
+    toc: false
     toc_depth: 5
     toc_float:
       collapsed: false
