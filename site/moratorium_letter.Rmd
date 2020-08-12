@@ -33,7 +33,7 @@ Given that the recipient population (including bystanders) is not able to determ
 
 We specifically demand the following:
 
-1. A complete moratorium on chemical weapons applied to humans in the United States. 
+1. A complete moratorium on chemical weapons being used on humans in the United States. 
 2. Full dismantling and proper disposal of law enforcement chemical weapons caches.
 3. The legal default being set such that a chemical is not to be used and evidence must be provided of its safety before base consideration ("assumed toxic").
 4. Potential chemical weapons must undergo the same review as chemicals involved in [agricultural applications](https://www.fda.gov/food/chemicals-metals-pesticides-food/chemicals).
@@ -45,10 +45,28 @@ Swiftly enacting this platform will help save human lives, reduce negative impac
 
 With best regards,
 
+<br>
 
-Dr. Juniper L. Simonis, they/them, [DAPPER Stats](https://www.dapperstats.com) Founder & Lead Scientist
+**Author**
+
+Dr. Juniper L. Simonis, they/them; [DAPPER Stats](https://www.dapperstats.com), Founder & Lead Scientist
 
 <br>
+
+**Cosignatories**
+
+William Booker, he/him; Florida State University, PhD Candidate  
+Dr. Sara Garnett, she/her; Michigan State University, Research Associate  
+Helen Caddes, she/her; Musician / Digital Media Specialist  
+Dr. Maryam Zaringhalam, she/her; 500 Women Scientists, Leadership Member  
+Russ Dial, he/him; Pierce County Master Gardener,Chemical weapons are toxic to plants as well as humans  
+Dr Jamie Uhrig, they; Staff Physician, Correctional Health Services, New York City Health + Hospitals  
+Kade McVay, he/him; Broomshire Unlimited, Co-founder  
+Gail Stonebarger, she/her; OHSU Behavioral Neuroscience graduate researcher, PhD candidate  
+Dr. Jonathan Walter, he/him; Ronin Institute for Independent Scholarship, Research Scholar  
+Dr. Kelly Ramirez, she/her; 500 Women Scientists, Co-Founder; Assistant Professor, UTEP  
+Dr. Karen Dyson, she/her; Dendrolytics Lab; Founder  
+
 <br>
 
 version 0.0.2 2020-08-10
