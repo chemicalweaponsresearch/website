@@ -1,0 +1,53 @@
+---
+title: "Chemical Weapons Primer"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+author: "Juniper L. Simonis"
+bibliography: refs.bibtex
+---
+
+<br>
+
+This primer is a starting point description of current (2020) chemical weapons technology being deployed in the United States.
+
+It is a work in progress and is based on first-hand experiences, documentation, forensics, and research.
+
+<br>
+
+## Agents
+
+### "Gasses"
+
+#### Capsinoids
+
+##### Oleoresin Capsicum (OC)
+
+##### Pelargonic Acid Vanillylamide (PAVA) 
+
+#### Corson-Stoughton (CS)
+
+o-chlorobenzylidene malononitrile
+
+
+
+### "Smokes"
+
+#### Hexachloroethane (HC)
+
+#### SAF-Smoke 
+
+#### Cyclohexanone
+
+Pepper fog smoke formulation 
+
+
+## Deployment mechanisms
+
+### Canisters
+
+Grenades, candles
+
+### Firearm rounds
+
+Pepper balls (paint ball guns), blast rounds (12-gauge), launch rounds (37mm, 40mm)
+
+

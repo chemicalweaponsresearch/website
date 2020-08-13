@@ -3,7 +3,7 @@ name: "chemical_weapons"
 output_dir: "docs"
 
 navbar:
-  title: "CWRC"
+  title: "Chemical Weapons Research Consortium"
   left:
     - text: "Home"
       href: index.html
