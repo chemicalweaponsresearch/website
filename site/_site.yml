@@ -9,6 +9,15 @@ navbar:
       href: index.html
     - text: "Open Letter"
       href: moratorium_letter.html
+    #- text: "Reports"
+    #  href: reports.html
+    #- text: "Submit a Munition Observation"
+    #  menu:
+    #    - text: "Email"
+    #      href: mailto:chemicalweaponsresearch@protonmail.com
+    #    - text: "Form (Google Log-In Required)"
+    #      href: https://forms.gle/EZtBpYpQjKFrZNjS9
+
 
 output:
   html_document:
@@ -17,7 +26,7 @@ output:
     include:
       after_body: footer.html
     css: styles.css
-    toc: false
-    toc_depth: 5
+    toc: true
+    toc_depth: 6
     toc_float:
       collapsed: false

@@ -3,51 +3,118 @@ title: "Chemical Weapons Primer"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 author: "Juniper L. Simonis"
 bibliography: refs.bibtex
+output:
+  html_document:
+    highlight: tango
+    theme: flatly 
+    include:
+      after_body: footer.html
+    css: styles.css
+    toc: true
+    toc_depth: 6
+    toc_float:
+      collapsed: false
 ---
 
 <br>
 
-This primer is a starting point description of current (2020) chemical weapons technology being deployed in the United States.
+This is an overview of current (2020) chemical weapons technology being deployed in the United States.
 
-It is a work in progress and is based on first-hand experiences, documentation, forensics, and research.
+It is a work in progress and is based on first-hand experiences, documentation, forensics, and research centered initially on the 2020 Black Lives Matter (BLM) protests in Portland, OR, USA.
+
+Note specifically that references have not yet been fully included and this document contains only secondary (or more removed) materials.
 
 <br>
 
-## Agents
+# Agents
 
-### "Gasses"
+## "Gasses"
 
-#### Capsinoids
+For the sake of simplicity, we follow generally used naming and grouping conventions.
+As has been noted by many others, however, "gas" is a scientifically inaccurate misnomer with respect to most current chemical weapons, which tend to be liquid suspensions or powder solids. 
+In many respects this is a trivial distinction, but is important with respect to air filters.
+Furthermore, while many focal ingredients may remain liquids or solids, some components and by-products are disbursed as gasses.
 
-##### Oleoresin Capsicum (OC)
+### *Capsicum* Derviatives
 
-##### Pelargonic Acid Vanillylamide (PAVA) 
+Most plant species in the genus *Capsicum* produce secondary metabolites that are presumed defensive compounds against mammals and fungi. 
+The most well known of these compounds is [capsaicin (methyl-n-vanillyl nonenamide)](https://pubchem.ncbi.nlm.nih.gov/compound/Capsaicin), and its analogs called capsaicinoids.
+Other metabolites, such as the capsinoids, are also present in *Capsicum* species and have a range of similar effects.
 
-#### Corson-Stoughton (CS)
+#### Extracts: OC
+
+##### Production
+
+The most common type of *Capsicum*-based chemical weaponry is known as "OC", or Oleoresin Capsicum, which is a fancy way of saying "oil-based pepper extract" and is often the main component of "pepper spray".
+Despite being OC branded and presented as a safe/non-toxic chemical weapon that only causes short-term irritation, repeated scientific studies indicate that its components are indeed toxic with long-term impacts.
+
+A major issue underlying the generation of OC from peppers is the lack of specificity of the extract.
+Indeed, the methods used for extracting capsaicin from peppers are generalized (e.g., acetone-based) and can include any similarly lipophilic organic compounds in the product.
+This is of note not just because peppers contain other metabolites of their own, but because peppers are regularly attacked by fungi that produce aflatoxins, which are generally soluble in extraction solvents like acetone.
+Although particularly visually moldy peppers may be removed from food supply chains, there is no food edibility requirement for peppers used in chemical weapons, and it stands to reason that peppers deemed unsafe to eat might be sold for other purposes such as weaponry.
+
+Further, there are no specific requirements for weapons manufacturers to disclose any details of an OC mixture to consumers or regulators, leading to even Materials Saftey Data Sheets (MSDSs) stating "trade secret".
+Thus, identically-branded OC sprays likely contain different suites of compounds and have the potential to be variable in their both their short-term potency and long-term toxicity.
+
+##### Contents
+
+The predominant components of OC are the capsaicinoids compounds capsaicin (majority), dihydrocapsaicin, norhydrocapsaicin, homocapsaicin (trace), and homodihydrocapsaicin (trace).
+Although these compounds are congeners and analogs, they differ in some noteworthy aspects.
+
+Capsaicin
+Dihydrocapsaicin
+Norhydrocapsaicin
+Homocapsaicin
+Homodihydrocapsaicin
+
+Depending on the specific delivery mechanism, additional compounds may be produced, as capsaicinoids and similar metabolites can be thermally degraded.
+Capsaicin thermally begins to degrade at least by 200 C; as discussed further below, grenade and fogger deployment mechanisms can exceed this temperature.
+Capaicin thermal degredation products are broad and are expanded further by the presence of typical acidic oils, and this range of compounds have a wide variety of concerns, impacts, and toxicities.
+
+
+##### Impact
+
+The most readily noticable impact of OC is that familiar burning sensation caused by chemical interactions with sensory neurons present all over human bodies.
+Specifically, capsaicinoids bind to the Vanilloid Receptor Subtype 1 known as TRPV1 because they contain vanillyl functional groups.
+The TRPV1 receptor is also triggered by heat, abrasion, and protons, explaining the burning sensation.
+
+
+
+#### Synthetics: PAVA
+
+Pelargonic Acid Vanillylamide 
+
+### Corson-Stoughton (CS)
 
 o-chlorobenzylidene malononitrile
 
 
 
-### "Smokes"
+## "Smokes"
 
-#### Hexachloroethane (HC)
+### Hexachloroethane (HC)
 
-#### SAF-Smoke 
+### SAF-Smoke 
 
-#### Cyclohexanone
+### Cyclohexanone
 
 Pepper fog smoke formulation 
 
 
-## Deployment mechanisms
+# Deployment mechanisms
 
-### Canisters
+## Canisters
 
 Grenades, candles
 
-### Firearm rounds
+## Firearm rounds
 
 Pepper balls (paint ball guns), blast rounds (12-gauge), launch rounds (37mm, 40mm)
 
+## Sprayers
 
+Hand-held (key-chain, multi-use, varying canister size/pressure/delivery), backpack
+
+## Foggers
+
+Cold foggers (overlap with hand-held sprayers), thermal foggers

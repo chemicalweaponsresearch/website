@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 <meta name="author" content="Juniper L. Simonis" />
 
-<meta name="date" content="2020-08-15" />
+<meta name="date" content="2020-09-05" />
 
 <title>Chemical Weapons Primer</title>
 
@@ -22,6 +21,9 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 
 
@@ -218,6 +220,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -234,6 +237,75 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
+
+</style>
+
+
 
 </head>
 
@@ -241,6 +313,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -263,6 +345,24 @@ $(document).ready(function () {
 <li>
   <a href="moratorium_letter.html">Open Letter</a>
 </li>
+<li>
+  <a href="reports.html">Reports</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Submit a Munition Observation
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="mailto:chemicalweaponsresearch@protonmail.com">Email</a>
+    </li>
+    <li>
+      <a href="https://forms.gle/EZtBpYpQjKFrZNjS9">Form (Google Log-In Required)</a>
+    </li>
+  </ul>
+</li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         
@@ -277,56 +377,84 @@ $(document).ready(function () {
 
 <h1 class="title toc-ignore">Chemical Weapons Primer</h1>
 <h4 class="author">Juniper L. Simonis</h4>
-<h4 class="date">August 15, 2020</h4>
+<h4 class="date">September 05, 2020</h4>
 
 </div>
 
 
 <p><br></p>
-<p>This primer is a starting point description of current (2020) chemical weapons technology being deployed in the United States.</p>
-<p>It is a work in progress and is based on first-hand experiences, documentation, forensics, and research.</p>
+<p>This is an overview of current (2020) chemical weapons technology being deployed in the United States.</p>
+<p>It is a work in progress and is based on first-hand experiences, documentation, forensics, and research centered initially on the 2020 Black Lives Matter (BLM) protests in Portland, OR, USA.</p>
+<p>Note specifically that references have not yet been fully included and this document contains only secondary (or more removed) materials.</p>
 <p><br></p>
-<div id="agents" class="section level2">
-<h2>Agents</h2>
-<div id="gasses" class="section level3">
-<h3>“Gasses”</h3>
-<div id="capsinoids" class="section level4">
-<h4>Capsinoids</h4>
-<div id="oleoresin-capsicum-oc" class="section level5">
-<h5>Oleoresin Capsicum (OC)</h5>
+<div id="agents" class="section level1">
+<h1>Agents</h1>
+<div id="gasses" class="section level2">
+<h2>“Gasses”</h2>
+<p>For the sake of simplicity, we follow generally used naming and grouping conventions. As has been noted by many others, however, “gas” is a scientifically inaccurate misnomer with respect to most current chemical weapons, which tend to be liquid suspensions or powder solids. In many respects this is a trivial distinction, but is important with respect to air filters. Furthermore, while many focal ingredients may remain liquids or solids, some components and by-products are disbursed as gasses.</p>
+<div id="capsicum-derviatives" class="section level3">
+<h3><em>Capsicum</em> Derviatives</h3>
+<p>Most plant species in the genus <em>Capsicum</em> produce secondary metabolites that are presumed defensive compounds against mammals and fungi. The most well known of these compounds is <a href="https://pubchem.ncbi.nlm.nih.gov/compound/Capsaicin">capsaicin (methyl-n-vanillyl nonenamide)</a>, and its analogs called capsaicinoids. Other metabolites, such as the capsinoids, are also present in <em>Capsicum</em> species and have a range of similar effects.</p>
+<div id="extracts-oc" class="section level4">
+<h4>Extracts: OC</h4>
+<div id="production" class="section level5">
+<h5>Production</h5>
+<p>The most common type of <em>Capsicum</em>-based chemical weaponry is known as “OC”, or Oleoresin Capsicum, which is a fancy way of saying “oil-based pepper extract” and is often the main component of “pepper spray”. Despite being OC branded and presented as a safe/non-toxic chemical weapon that only causes short-term irritation, repeated scientific studies indicate that its components are indeed toxic with long-term impacts.</p>
+<p>A major issue underlying the generation of OC from peppers is the lack of specificity of the extract. Indeed, the methods used for extracting capsaicin from peppers are generalized (e.g., acetone-based) and can include any similarly lipophilic organic compounds in the product. This is of note not just because peppers contain other metabolites of their own, but because peppers are regularly attacked by fungi that produce aflatoxins, which are generally soluble in extraction solvents like acetone. Although particularly visually moldy peppers may be removed from food supply chains, there is no food edibility requirement for peppers used in chemical weapons, and it stands to reason that peppers deemed unsafe to eat might be sold for other purposes such as weaponry.</p>
+<p>Further, there are no specific requirements for weapons manufacturers to disclose any details of an OC mixture to consumers or regulators, leading to even Materials Saftey Data Sheets (MSDSs) stating “trade secret”. Thus, identically-branded OC sprays likely contain different suites of compounds and have the potential to be variable in their both their short-term potency and long-term toxicity.</p>
 </div>
-<div id="pelargonic-acid-vanillylamide-pava" class="section level5">
-<h5>Pelargonic Acid Vanillylamide (PAVA)</h5>
+<div id="contents" class="section level5">
+<h5>Contents</h5>
+<p>The predominant components of OC are the capsaicinoids compounds capsaicin (majority), dihydrocapsaicin, norhydrocapsaicin, homocapsaicin (trace), and homodihydrocapsaicin (trace). Although these compounds are congeners and analogs, they differ in some noteworthy aspects.</p>
+<p>Capsaicin Dihydrocapsaicin Norhydrocapsaicin Homocapsaicin Homodihydrocapsaicin</p>
+<p>Depending on the specific delivery mechanism, additional compounds may be produced, as capsaicinoids and similar metabolites can be thermally degraded. Capsaicin thermally begins to degrade at least by 200 C; as discussed further below, grenade and fogger deployment mechanisms can exceed this temperature. Capaicin thermal degredation products are broad and are expanded further by the presence of typical acidic oils, and this range of compounds have a wide variety of concerns, impacts, and toxicities.</p>
+</div>
+<div id="impact" class="section level5">
+<h5>Impact</h5>
+<p>The most readily noticable impact of OC is that familiar burning sensation caused by chemical interactions with sensory neurons present all over human bodies. Specifically, capsaicinoids bind to the Vanilloid Receptor Subtype 1 known as TRPV1 because they contain vanillyl functional groups. The TRPV1 receptor is also triggered by heat, abrasion, and protons, explaining the burning sensation.</p>
 </div>
 </div>
-<div id="corson-stoughton-cs" class="section level4">
-<h4>Corson-Stoughton (CS)</h4>
+<div id="synthetics-pava" class="section level4">
+<h4>Synthetics: PAVA</h4>
+<p>Pelargonic Acid Vanillylamide</p>
+</div>
+</div>
+<div id="corson-stoughton-cs" class="section level3">
+<h3>Corson-Stoughton (CS)</h3>
 <p>o-chlorobenzylidene malononitrile</p>
 </div>
 </div>
-<div id="smokes" class="section level3">
-<h3>“Smokes”</h3>
-<div id="hexachloroethane-hc" class="section level4">
-<h4>Hexachloroethane (HC)</h4>
+<div id="smokes" class="section level2">
+<h2>“Smokes”</h2>
+<div id="hexachloroethane-hc" class="section level3">
+<h3>Hexachloroethane (HC)</h3>
 </div>
-<div id="saf-smoke" class="section level4">
-<h4>SAF-Smoke</h4>
+<div id="saf-smoke" class="section level3">
+<h3>SAF-Smoke</h3>
 </div>
-<div id="cyclohexanone" class="section level4">
-<h4>Cyclohexanone</h4>
+<div id="cyclohexanone" class="section level3">
+<h3>Cyclohexanone</h3>
 <p>Pepper fog smoke formulation</p>
 </div>
 </div>
 </div>
-<div id="deployment-mechanisms" class="section level2">
-<h2>Deployment mechanisms</h2>
-<div id="canisters" class="section level3">
-<h3>Canisters</h3>
+<div id="deployment-mechanisms" class="section level1">
+<h1>Deployment mechanisms</h1>
+<div id="canisters" class="section level2">
+<h2>Canisters</h2>
 <p>Grenades, candles</p>
 </div>
-<div id="firearm-rounds" class="section level3">
-<h3>Firearm rounds</h3>
+<div id="firearm-rounds" class="section level2">
+<h2>Firearm rounds</h2>
 <p>Pepper balls (paint ball guns), blast rounds (12-gauge), launch rounds (37mm, 40mm)</p>
+</div>
+<div id="sprayers" class="section level2">
+<h2>Sprayers</h2>
+<p>Hand-held (key-chain, multi-use, varying canister size/pressure/delivery), backpack</p>
+</div>
+<div id="foggers" class="section level2">
+<h2>Foggers</h2>
+<p>Cold foggers (overlap with hand-held sprayers), thermal foggers</p>
 </div>
 </div>
 
@@ -335,6 +463,8 @@ $(document).ready(function () {
 </p>
 
 
+</div>
+</div>
 
 </div>
 
@@ -367,6 +497,32 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3,h4,h5,h6",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = false;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

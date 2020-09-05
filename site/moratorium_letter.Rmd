@@ -1,6 +1,10 @@
 ---
 title: "Open Letter to Halt Use of Chemical Weapons"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
+output:
+  html_document:
+    toc: false
+    toc_float: false
 ---
 
 <br>
@@ -98,6 +102,15 @@ Dr. Julia Maresca, She/her; University of Delaware, Associate Professor
 Dr. Gretchen Goldman, she/her; 500 Women Scientists, Leadership Board Member  
 Dr. Loren Cassin Sackett, She/her; Assistant Professor, University of Louisiana  
 Kelly Mistry, She/her; Graduate student  
+Dr. Glenda Yenni, she/her; University of Florida  
+Elizabeth Mohr, She/her; Montana State University, Ph.D. Candidate  
+Dr. Morgan Ernest, she/her; Associate Professor  
+Dr. Alejandra Maldonado, she/her; Toxicologist  
+Jessica O’Neill, she/her; University at Buffalo, Doctoral candidate, American Public Health Association Policy Institute student scholar; Co-founder of Buffalo, NY 500 Women Scientists  
+Dr. Valérie Vilmont, she/her; CHUV -Clinical Scientist  
+Msc. Melissa Mendes, she/her; McGill University, PhD Candidate  
+Morgan Malone, she/her; Graduate Student  
+Ceri Jensen, she/her; Engineer  
 
 <br>
 
@@ -105,5 +118,4 @@ version 0.0.2 2020-08-10
 
 [Add your name](https://forms.gle/U2h1rZFdPxouW4SFA) to the list of signatories.
 
-Note: Right now, I'm updating the list by hand, working on the automation as my hands allow! 
-(The federal agents who kidnapped me messed up my hands so bad I can only computer for an hour or so a day!)
+[Archived version](https://doi.org/10.5281/zenodo.3978769) of the letter.
