@@ -1,14 +1,10 @@
 ---
-title: "Chemical Weapons Research Consortium"
+title: "Research on the Impacts of Chemical Weapons"
 output:
   html_document:
     toc: false
     toc_float: false
 ---
-
-<br>
-
-Supporting research on the impacts of chemical weapons.
 
 <br>
 

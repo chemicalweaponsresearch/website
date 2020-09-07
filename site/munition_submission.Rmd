@@ -1,0 +1,77 @@
+---
+title: "Submit Munitions Observations: Portland, OR"
+output:
+  html_document:
+    toc: false
+    toc_float: false
+---
+
+<br>
+
+We are a consortium of researchers studying the impacts of chemical weapons use by law enforcement agencies in Portland, OR. 
+
+The extended use of chemical weapons (gasses, smokes, etc.) has already had a noticeable impact on the ecology of our city; we want to do what we can to swiftly mitigate the impact on human and environmental health. 
+Our long-term goal is to assess the likely impact of these residues on local ecosystems and reduce the damage as much as possible.
+
+That is where you come in: we need you to be our eyes and ears! 
+
+We want your photographs or videos of:
+- chemical weapons recovered at the scene of a PDX protest
+- chemical weapons while they are being deployed
+
+We are especially interested in photos or videos accompanied by date, time, and location information, or any other context you can share. 
+If you have thoughts or interpretations, we are happy to hear those as well. 
+Our only requirement is that you include at least one photo of the item in each report.
+
+*WHERE WILL MY REPORT GO?*
+
+All observations will be collated and made publicly available on [this site](https://www.chemicalweaponsresearch.com).
+We will remove identifying information from all text and media attachments before sharing any part of your report outside our research group. 
+
+If you have any questions or concerns, or if you would prefer to submit your report via secure email instead, send lead researcher Dr. Juniper L. Simonis (they/them) a message at chemicalweaponsresearch@protonmail.com. 
+
+
+<form name="munitions_trial" method="POST" data-netlify="true">
+  <p>
+    <font size="+3">Consent</font>
+  </p>
+  <p>
+    <label>
+      By checking this box, you are consenting to the researchers using the information and media files you submit via this form to conduct scientific research and produce public outreach materials. 
+    </label> 
+    <br> 
+    <input type="checkbox" name="consent" />
+  </p>
+  <p>
+    <font size="+3">
+      Munitions Record
+    </font>
+  </p>
+  <p>
+    Please fill out as many of the fields below as you can
+  </p>
+  <p>
+    <label>Photograph files 
+    </label>
+    <br> 
+    <input type="file" id="munition_photos" name="files" multiple/>
+  </p>
+  <p>
+    <label>Your Role: 
+    </label>
+    <select name="role[]" multiple>
+      <option value="leader">Leader</option>
+      <option value="follower">Follower</option>
+    </select>
+  </p>
+  <p>
+    <label>Any other relevant information you'd like to share? (e.g. uncertainty about date found or deployed, links to tweets, context of the usage, your body's reaction to this weapon.)
+    </label>
+    <textarea name="narrative"></textarea>
+  </p>
+  <p>
+    <button type="submit">
+      Send
+    </button>
+  </p>
+</form>
