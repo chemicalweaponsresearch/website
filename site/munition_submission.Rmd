@@ -30,6 +30,11 @@ We will remove identifying information from all text and media attachments befor
 
 If you have any questions or concerns, or if you would prefer to submit your report via secure email instead, send lead researcher Dr. Juniper L. Simonis (they/them) a message at chemicalweaponsresearch@protonmail.com. 
 
+<br>
+
+![](images/submission_examples.png)
+
+<br>
 
 <form name="munitions_trial" method="POST" data-netlify="true">
   <p>
@@ -37,11 +42,13 @@ If you have any questions or concerns, or if you would prefer to submit your rep
   </p>
   <p>
     <label>
-      By checking this box, you are consenting to the researchers using the information and media files you submit via this form to conduct scientific research and produce public outreach materials. 
+      By checking this box, you are consenting to the researchers using the information and media files you submit via this form to conduct scientific research and produce public outreach materials. (Required)
     </label> 
     <br> 
-    <input type="checkbox" name="consent" />
+    <input type="checkbox" name="consent" required/>
+    I agree
   </p>
+  <br>
   <p>
     <font size="+3">
       Munitions Record
@@ -50,25 +57,270 @@ If you have any questions or concerns, or if you would prefer to submit your rep
   <p>
     Please fill out as many of the fields below as you can
   </p>
+  <br>
   <p>
-    <label>Photograph files 
+    <font size="+2">
+      Weapon
+    </font>
+  </p>
+  <p>
+    <label>
+      Photographs (Required)
+    </label>
+    <br>
+    <em>
+      If possible, all sides of the weapon and any identifying numbers.
+    </em>
+    <input type="file" id="munition_photos" name="munitions_photos" multiple required/>
+    <br>
+  </p>
+  <p>
+    <label>
+      Manufacturer
+    </label>
+      <br>
+      <em>
+        Example: Defense Technology
+      </em>
+    <br>
+    <input type="text" id="manufacturer" name="manufacturer"/>
+    <br>
+  </p>
+  <p>
+    <label>
+      Product name
+    </label>
+      <br>
+      <em>
+        Example: Triple Chaser SAF Smoke Grenade
+      </em>
+    <br>
+    <input type="text" id="product" name="product"/>
+    <br>
+  </p>
+  <p>
+    <label>
+      Manufacture date
+    </label>
+      <br>
+      <em>
+        Example: 2007
+      </em>
+    <br>
+    <input type="text" id="manufacture_date" name="manufacture_date"/>
+    <br>
+  </p>
+  <p>
+    <label>
+      Shelf life (years)
+    </label>
+      <br>
+      <em>
+        Example: 5
+      </em>
+    <br>
+    <input type="text" id="shelf_life" name="shelf_life"/>
+    <br>
+  </p>
+  <p>
+    <label>
+      Lot number
+    </label>
+      <br>
+      <em>
+        Example: 12399
+      </em>
+    <br>
+    <input type="text" id="shelf_life" name="shelf_life"/>
+    <br>
+  </p>
+  <p>
+    <label>
+      Text on the weapon
+    </label>
+      <br>
+      <em>
+        Example: Only to be used by trained officers
+      </em>
+    <br>
+    <input type="text" id="weapon_text" name="weapon_text"/>
+    <br>
+  </p>
+
+
+  <br>
+  <p>
+    <font size="+2">
+      Deployment
+    </font>
+  </p>
+  <p>
+    <label>
+      Photographs of the weapon being deployed or going off
     </label>
     <br> 
-    <input type="file" id="munition_photos" name="files" multiple/>
+    <input type="file" id="deployment_photos" name="deployment_files" multiple/>
+    <br>
   </p>
   <p>
-    <label>Your Role: 
+    <label>
+      Date/time deployed
     </label>
-    <select name="role[]" multiple>
-      <option value="leader">Leader</option>
-      <option value="follower">Follower</option>
-    </select>
+      <br>
+      <em>
+        Example: July 26th 2020, 10 PM
+      </em>
+    <br>
+    <input type="text" id="date_time_deployed" name="date_time_deployed"/>
+    <br>
   </p>
   <p>
-    <label>Any other relevant information you'd like to share? (e.g. uncertainty about date found or deployed, links to tweets, context of the usage, your body's reaction to this weapon.)
+    <label>
+      Did you observe a person deploying this weapon?
     </label>
-    <textarea name="narrative"></textarea>
+    <br>
+    <input type="radio" id="yes" name="in_deployment"/>
+    <label for="yes">
+      <font size="-1">
+        Yes
+      </font>
+    </label>
+    <br>
+    <input type="radio" id="maybe" name="in_deployment"/>
+    <label for="maybe">
+      <font size="-1">
+        I think so but couldn't see it clearly
+      </font>
+    </label>
+    <br>
+    <input type="radio" id="no" name="in_deployment"/>
+    <label for="no">
+      <font size="-1">
+        No
+      </font>
+    </label>
   </p>
+  <p>
+    <label>
+      Individual agent deploying weapon 
+    </label>
+    <br>
+    <em>
+      Name, badge number, helmet number
+    </em>
+    <br>
+    <input type="text" id="deployer" name="deployer"/>
+  </p>
+  <p>
+    <label>
+      Agency deploying weapon
+    </label>
+    <br>
+    <input type="radio" id="ppb" name="agency_deploying"/>
+    <label for="ppb">
+      <font size="-1">
+        Portland Police Bureau
+      </font>
+    </label>
+    <br>
+    <input type="radio" id="mcso" name="agency_deploying"/>
+    <label for="mcso">
+      <font size="-1">
+        Multnomah County Sheriff's Office
+      </font>
+    </label>
+    <br>
+    <input type="radio" id="osp" name="agency_deploying"/>
+    <label for="osp">
+      <font size="-1">
+        Oregon State Police
+      </font>
+    </label>
+    <br>
+    <input type="radio" id="dhs" name="agency_deploying"/>
+    <label for="dhs">
+      <font size="-1">
+        Department of Homeland Security (ICE, CBP, FPS)
+      </font>
+    </label>
+    <br>
+    <input type="radio" id="doj" name="agency_deploying"/>
+    <label for="doj">
+      <font size="-1">
+        Department of Justice (Marshals, FBI)
+      </font>
+    </label>
+    <br>
+    <input type="radio" id="armed_services" name="agency_deploying"/>
+    <label for="armed_services">
+      <font size="-1">
+        Armed Services (National Guard, Army)
+      </font>
+    </label>
+    <br>
+    <input type="radio" id="civilian" name="agency_deploying"/>
+    <label for="civilian">
+      <font size="-1">
+        Civilian group
+      </font>
+    </label>
+    <br>
+    <label for="other">
+      <font size="-1">
+        Other:
+      </font>
+    </label>
+    <input type="text" id="other" name="agency_deploying"/>
+    <br>
+  </p>
+  <br>
+  <p>
+    <font size="+2">
+      Recovery
+    </font>
+  </p>
+  <p>
+    <label>
+      Date/time found
+    </label>
+      <br>
+      <em>
+        Example: July 27th 2020, after 1 AM
+      </em>
+    <br>
+    <input type="text" id="date_time_found" name="date_time_found"/>
+    <br>
+  </p>
+  <p>
+    <label>
+      Location found
+    </label>
+      <br>
+      <em>
+      Nearest intersection, address, GPS, park name, etc.
+      </em>
+    <br>
+    <input type="text" id="location_found" name="location_found"/>
+    <br>
+  </p>
+  <br>
+  <p>
+    <font size="+3">
+      Additional Information
+    </font>
+  </p>
+  <p>
+    <label>
+      Any other relevant information you'd like to share
+    </label>
+    <br>
+    <em>
+      Uncertainty about date found or deployed, links to tweets, context of the usage, your body's reaction to this weapon, your contact information
+    </em>
+    <textarea name="narrative">
+    </textarea>
+  </p>
+  <br>
   <p>
     <button type="submit">
       Send
