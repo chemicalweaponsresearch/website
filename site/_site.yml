@@ -11,12 +11,12 @@ navbar:
       href: moratorium_letter.html
     #- text: "Reports"
     #  href: reports.html
-    - text: "Submit a Munition Observation"
+    - text: "Submit a Munition Photo"
       menu:
-        - text: "Email"
-          href: mailto:chemicalweaponsresearch@protonmail.com
         - text: "Form"
           href: munition_submission.html
+        - text: "Email"
+          href: mailto:chemicalweaponsresearch@protonmail.com
 
 
 output:
