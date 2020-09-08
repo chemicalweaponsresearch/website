@@ -1,6 +1,6 @@
 ---
 title: "Open Letter to Halt Use of Chemical Weapons"
-date: "September 07, 2020"
+date: "September 08, 2020"
 output:
   html_document:
     toc: false
@@ -111,6 +111,9 @@ Dr. Valérie Vilmont, she/her; CHUV -Clinical Scientist
 Msc. Melissa Mendes, she/her; McGill University, PhD Candidate  
 Morgan Malone, she/her; Graduate Student  
 Ceri Jensen, she/her; Engineer  
+Dr. Sara Winings, she/her; PharmD  
+Dr. Stephanie Fronk, she/her; Process engineer  
+Amika Savage, MN, APRN, FNP-BC, CHES, she/they; Oregon Health & Science University, Doctoral Student  
 
 <br>
 
