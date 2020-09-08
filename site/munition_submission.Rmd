@@ -330,8 +330,8 @@ If you would prefer to submit your report via secure email instead, please send 
     </em>
     <textarea name="narrative">
     </textarea>
+    <br>
   </p>
-  <br>
   <p>
     <label>
       Credit
@@ -347,7 +347,7 @@ If you would prefer to submit your report via secure email instead, please send 
   <br>
   <p>
     <button type="submit">
-      Submit
+      Submit photos
     </button>
   </p>
 </form>
