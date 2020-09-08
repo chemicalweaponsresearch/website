@@ -5,19 +5,18 @@ output_dir: "docs"
 navbar:
   title: "Chemical Weapons Research Consortium"
   left:
-    - text: "Home"
-      href: index.html
+    - text: "About Us"
+      href: about.html
     - text: "Open Letter"
       href: moratorium_letter.html
     #- text: "Reports"
     #  href: reports.html
     - text: "Submit a Munition Observation"
-      href: munition_submission.html
-    #  menu:
-    #    - text: "Email"
-    #      href: mailto:chemicalweaponsresearch@protonmail.com
-    #    - text: "Form (Google Log-In Required)"
-    #      href: https://forms.gle/EZtBpYpQjKFrZNjS9
+      menu:
+        - text: "Email"
+          href: mailto:chemicalweaponsresearch@protonmail.com
+        - text: "Form"
+          href: munition_submission.html
 
 
 output:

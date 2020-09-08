@@ -1,42 +1,49 @@
 ---
-title: "Submit Munitions Observations: Portland, OR"
+title: "Submit Munitions Photos: Portland, OR"
 output:
   html_document:
     toc: false
     toc_float: false
 ---
 
-<br>
 
-We are a consortium of researchers studying the impacts of chemical weapons use by law enforcement agencies in Portland, OR. 
+We are a consortium of researchers [studying the impacts of chemical weapons](https://www.dapperstats.com/project/chemical_weapons/) use by law enforcement agencies in Portland, OR. 
 
 The extended use of chemical weapons (gasses, smokes, etc.) has already had a noticeable impact on the ecology of our city; we want to do what we can to swiftly mitigate the impact on human and environmental health. 
-Our long-term goal is to assess the likely impact of these residues on local ecosystems and reduce the damage as much as possible.
+Our long-term goal is to assess the likely impact of these residues on local ecosystems and mitigate the damage as much as possible.
 
-That is where you come in: we need you to be our eyes and ears! 
+That is where you come in: we need you to be our eyes, ears, and cameras around the city! 
 
-We want your photographs or videos of:
-- chemical weapons recovered at the scene of a PDX protest
+We want your photographs of:  
+- chemical weapons recovered at the scene of a PDX protest  
 - chemical weapons while they are being deployed
 
-We are especially interested in photos or videos accompanied by date, time, and location information, or any other context you can share. 
+We are especially interested in photos accompanied by date, time, and location information, or any other context you can share. 
 If you have thoughts or interpretations, we are happy to hear those as well. 
 Our only requirement is that you include at least one photo of the item in each report.
 
-*WHERE WILL MY REPORT GO?*
+Photos can be from any time during the 2020 protests.
 
-All observations will be collated and made publicly available on [this site](https://www.chemicalweaponsresearch.com).
-We will remove identifying information from all text and media attachments before sharing any part of your report outside our research group. 
+**WHERE WILL MY REPORT GO?**
 
-If you have any questions or concerns, or if you would prefer to submit your report via secure email instead, send lead researcher Dr. Juniper L. Simonis (they/them) a message at chemicalweaponsresearch@protonmail.com. 
+Form submissions are managed securely via [Netlify](https://www.netlify.com/) by [DAPPER Stats](https://dapperstats.com), the company of lead researcher Dr. Juniper L. Simonis (they/them).
+
+Observations will be collated and made publicly available on [our website](https://www.chemicalweaponsresearch.com).
+We will remove identifying information from all text and photos before sharing any part of your report. 
+Photos will only be used for research and education purposes.
+If you would like to be credited if your photos are used, please note that below.
+
+If you have any questions or concerns contact lead researcher [Dr. Juniper L. Simonis (they/them)](mailto: chemicalweaponsresearch@protonmail.com).
+
+If you would prefer to submit your report via secure email instead, please send the photo and accompanying information to [chemicalweaponsresearch@protonmail.com](mailto: chemicalweaponsresearch@protonmail.com).
 
 <br>
 
-![](images/submission_examples.png)
+<img src="images/submission_examples.png" alt="Nine examples of munition photos arranged in a 3x3 grid; top row from the left: three SAF Smoke triple chaser grenade parts, the top of a triple chaser grenade, the grenade's smoke; the middle from the left: front, back, and bottom of a CS Instantaneous Blast grenade; bottom row from the left: intact powder balls and powder ball fragments, impact of a powder ball close up in the road, pulled back shot of multiple powder ball impacts in the road" width="1000"> 
 
 <br>
 
-<form name="munitions_trial" method="POST" data-netlify="true">
+<form name="munitions" method="POST" data-netlify="true">
   <p>
     <font size="+3">Consent</font>
   </p>
@@ -45,7 +52,7 @@ If you have any questions or concerns, or if you would prefer to submit your rep
       By checking this box, you are consenting to the researchers using the information and media files you submit via this form to conduct scientific research and produce public outreach materials. (Required)
     </label> 
     <br> 
-    <input type="checkbox" name="consent" required/>
+    <input type="checkbox" name="consent" required/> &nbsp;
     I agree
   </p>
   <br>
@@ -69,7 +76,8 @@ If you have any questions or concerns, or if you would prefer to submit your rep
     </label>
     <br>
     <em>
-      If possible, all sides of the weapon and any identifying numbers.
+      If possible, all sides of the weapon and any identifying numbers.  
+      Multiple photos should be uploaded together.
     </em>
     <input type="file" id="munition_photos" name="munitions_photos" multiple required/>
     <br>
@@ -159,6 +167,9 @@ If you have any questions or concerns, or if you would prefer to submit your rep
       Photographs of the weapon being deployed or going off
     </label>
     <br> 
+    <em>
+      Multiple photos should be uploaded together.
+    </em>
     <input type="file" id="deployment_photos" name="deployment_files" multiple/>
     <br>
   </p>
@@ -322,8 +333,23 @@ If you have any questions or concerns, or if you would prefer to submit your rep
   </p>
   <br>
   <p>
+    <label>
+      Credit
+    </label>
+      <br>
+      <em>
+      If you would like to be credited for photos, let us know how to refer to you.
+      </em>
+    <br>
+    <input type="text" id="credit" name="credit"/>
+    <br>
+  </p>
+  <br>
+  <p>
     <button type="submit">
-      Send
+      Submit
     </button>
   </p>
 </form>
+
+<br>

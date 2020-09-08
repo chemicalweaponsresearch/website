@@ -119,3 +119,5 @@ version 0.0.2 2020-08-10
 [Add your name](https://forms.gle/U2h1rZFdPxouW4SFA) to the list of signatories.
 
 [Archived version](https://doi.org/10.5281/zenodo.3978769) of the letter.
+
+<br>
