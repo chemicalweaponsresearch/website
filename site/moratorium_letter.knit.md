@@ -1,6 +1,6 @@
 ---
 title: "Open Letter to Halt Use of Chemical Weapons"
-date: "September 08, 2020"
+date: "September 30, 2020"
 output:
   html_document:
     toc: false

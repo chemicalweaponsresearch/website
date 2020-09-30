@@ -9,6 +9,8 @@ navbar:
       href: about.html
     - text: "Open Letter"
       href: moratorium_letter.html
+    - text: "Hexachloroethane"
+      href: hc.html
     #- text: "Reports"
     #  href: reports.html
     - text: "Submit Munition Photos"

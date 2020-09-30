@@ -1,0 +1,28 @@
+---
+title: "Hexachloroethane"
+output:
+  html_document:
+    toc: false
+    toc_float: false
+---
+
+<br>
+
+We're studying the impacts of Hexachloroethane and Zinc Chloride gas on human and environmental health.
+Our first report identifying and quantifying HC is linked below.
+
+<br> 
+
+# <a href="files/hc_press_release.pdf">Press Release</a>
+
+
+<br> 
+
+# [Full Report](https://doi.org/10.5281/zenodo.4059329) 
+
+<br>
+
+<img src="images/3hcs.jpg" alt="Three exploded HC cans, all the rusty blue orange colors with the distinctive highly corroded look with no labels whatsoever." width="1000"> 
+
+
+<br>
