@@ -9,7 +9,12 @@ output:
 <br>
 
 We're studying the impacts of Hexachloroethane and Zinc Chloride gas on human and environmental health.
-Our first report identifying and quantifying HC is linked below.
+
+
+<br> 
+
+# <a href="images/hc_can_graphic.png">Infographic</a>
+
 
 <br> 
 
@@ -19,6 +24,10 @@ Our first report identifying and quantifying HC is linked below.
 <br> 
 
 # [Full Report](https://doi.org/10.5281/zenodo.4059329) 
+
+<br>
+
+This work is funded by [DAPPER Stats](https://www.dapperstats.com).
 
 <br>
 
