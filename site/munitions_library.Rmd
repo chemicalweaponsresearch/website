@@ -26,7 +26,11 @@ img <- character(nrow(munitions_in))
 img_md <- character(nrow(munitions_in))
 named_md <- character(nrow(munitions_in))
 alt <- character(nrow(munitions_in))
-manufacturer_md <- character(nrow(munitions_in)) 
+manufacturer_md <- character(nrow(munitions_in))
+spec_md <- character(nrow(munitions_in))
+sds_md <- character(nrow(munitions_in)) 
+sds_file <- character(nrow(munitions_in)) 
+spec_file <- character(nrow(munitions_in)) 
 
 for(i in 1:nrow(munitions_in)){
   folder[i] <- paste0(paste(rep(0, nchar_0[i]), collapse = ""), munitions_in$folder[i])
@@ -49,15 +53,43 @@ for(i in 1:nrow(munitions_in)){
     manufacturer_md[i] <- paste0("[", munitions_in$manufacturer[i], "](", manufacturer_link ,")")
   }
 
-manufacturer_md
+
+  sds <- munitions_in$saftey.data.sheet[i]
+  if(is.na(sds) | sds == ""){
+    sds_md[i] <- ""
+  } else{
+    sds_file[i] <- paste("files", "munitions_library", folder[i], munitions_in$saftey.data.sheet[i], sep = "/")
+    sds_md[i] <- paste0("[Saftey Data Sheet](", sds_file[i] ,")")
+  }
+
+
+  specs <- munitions_in$spec.sheet[i]
+  if(is.na(sds) | sds == ""){
+    sds_md[i] <- ""
+  } else{
+    spec_file[i] <- paste("files", "munitions_library", folder[i], munitions_in$spec.sheet[i], sep = "/")
+    spec_md[i] <- paste0("[Specification Sheet](", spec_file[i] ,")")
+  }
+
+
 }
 
 
 
-text_tbl <- data.frame(Item = img_md, Manufacturer = manufacturer_md, Name = named_md) 
+text_tbl <- data.frame(Item = img_md, Manufacturer = manufacturer_md, Name = named_md, "Safety Data Sheet" = sds_md, "Spec Sheet" = spec_md) 
 
 knitr::kable(text_tbl)
 
 ```
+
+<br>
+
+Notice something missing? 
+
+[Submit munitions to the library!](munition_submission.html)
+
+<br>
+
+This work is funded by [DAPPER Stats](https://www.dapperstats.com).
 
 <br>
