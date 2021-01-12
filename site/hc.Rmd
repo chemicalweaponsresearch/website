@@ -13,17 +13,29 @@ We're studying the impacts of Hexachloroethane and Zinc Chloride gas on human an
 
 <br> 
 
-# <a href="images/hc_can_graphic.png">Infographic</a>
+## <a href="images/hc_can_graphic.png">Infographic</a>
 
 
 <br> 
 
-# <a href="files/hc_press_release.pdf">Press Release</a>
+## <a href="files/hc_press_release.pdf">Press Release</a>
 
 
 <br> 
 
-# [Full Report](https://doi.org/10.5281/zenodo.4059329) 
+## [Full Report](https://doi.org/10.5281/zenodo.4059329) 
+
+<br>
+
+## Media Coverage
+
+*What Tear Gas Does To Fish* 2020-09-23 [Hakai Magazine](https://www.hakaimagazine.com/news/what-tear-gas-does-to-fish/)
+
+*Federal Agents Used Toxic Chemical Smoke Grenades in Portland*. 2020-10-10. [The Intercept](https://theintercept.com/2020/10/10/portland-tear-gas-chemical-grenades-protests/).
+
+*"Highly Toxic" Smoke Grenades Deployed at Portland Protests*. 2020-10-20. [Portland Tribune](https://pamplinmedia.com/pt/9-news/484862-390719-sinister-smoke).
+
+*Scientists Identified a Green, Poisonous Gas Used By Federal Agents on Portland Protesters* 2020-12-06 [Future Human](https://futurehuman.medium.com/scientists-identified-a-green-poisonous-gas-used-by-federal-agents-on-portland-protesters-5b56ac20a624)
 
 <br>
 
@@ -31,7 +43,7 @@ This work is funded by [DAPPER Stats](https://www.dapperstats.com).
 
 <br>
 
-<img src="images/3hcs.jpg" alt="Three exploded HC cans, all the rusty blue orange colors with the distinctive highly corroded look with no labels whatsoever." width="1000"> 
+<img src="images/3hcs.jpg" alt="Three canisters of HC stand in the foreground of the image, the background yields three other canisters of various chemical agents. The HC canisters are cylindrical with riveted tops resembling a paint can lid. Their markings have burned away with the heat of their ignition. Metal along the top has melted, peeled and been blown outwards. Their rough rounded edges border holes into the center of the canister. Chemical reactions have changed the color of the metal to dark grey, rust brown, and a navy blue. The canisters are dented from impact and appear to have lost any smoothness they may have once possessed." width="1000"> 
 
 
 <br>

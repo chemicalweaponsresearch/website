@@ -13,6 +13,8 @@ navbar:
       href: hc.html
     #- text: "Reports"
     #  href: reports.html
+   # - text: "Munition Library"
+   #   href: munitions_library.html
     - text: "Submit Munition Photos"
       menu:
         - text: "Form"

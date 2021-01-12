@@ -1,0 +1,63 @@
+---
+title: "Chemical Weapons Library"
+output:
+  html_document:
+    toc: false
+    toc_float: false
+---
+
+<br>
+
+Munitions used by law enforcement against racial justice protesters in Portland Oregon
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+
+munitions <- read.csv("files/munitions_library/munitions.csv")
+
+imgs <- munitions$item.image
+items_in <- munitions$name != ""
+munitions_in <- munitions[items_in, ]
+
+tchar <- 6
+nchar_item <- nchar(munitions_in$folder)
+nchar_0 <- tchar - nchar_item
+folder <- character(nrow(munitions_in))
+img <- character(nrow(munitions_in))
+img_md <- character(nrow(munitions_in))
+named_md <- character(nrow(munitions_in))
+alt <- character(nrow(munitions_in))
+manufacturer_md <- character(nrow(munitions_in)) 
+
+for(i in 1:nrow(munitions_in)){
+  folder[i] <- paste0(paste(rep(0, nchar_0[i]), collapse = ""), munitions_in$folder[i])
+  img[i] <- paste("files", "munitions_library", folder[i], munitions_in$item.image[i], sep = "/")
+  alt_file <- paste0("alt_", munitions_in$item.image[i], ".txt")
+  alt[i] <- paste("files", "munitions_library", folder[i], alt_file, sep = "/")
+  alt_txt <- scan(alt[i], "character", sep = ";", quiet = TRUE)
+  img_md[i] <- paste0("![", alt_txt, "](", img[i], ")")
+
+  item_link <- munitions_in$weblink[i]
+  if(is.na(item_link) | item_link == ""){
+    named_md[i] <- munitions_in$name[i]
+  } else{
+    named_md[i] <- paste0("[", munitions_in$name[i], "](", item_link ,")")
+  }
+  manufacturer_link <- munitions_in$manufacturer_weblink[i]
+  if(is.na(manufacturer_link) | manufacturer_link == ""){
+    manufacturer_md[i] <- munitions_in$manufacturer[i]
+  } else{
+    manufacturer_md[i] <- paste0("[", munitions_in$manufacturer[i], "](", manufacturer_link ,")")
+  }
+
+manufacturer_md
+}
+
+
+
+text_tbl <- data.frame(Item = img_md, Manufacturer = manufacturer_md, Name = named_md) 
+
+knitr::kable(text_tbl)
+
+```
+
+<br>
