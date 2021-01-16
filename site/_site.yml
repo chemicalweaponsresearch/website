@@ -3,18 +3,19 @@ name: "chemical_weapons"
 output_dir: "docs"
 
 navbar:
-  title: "Chemical Weapons Research Consortium"
   left:
-    - text: "About"
-      href: about.html
+    - text: "Chemical Weapons Research Consortium"
+      menu:
+        - text: "About"
+          href: about.html
+        - text: "Home"
+          href: index.html
     - text: "Open Letter"
       href: moratorium_letter.html
     - text: "Hexachloroethane"
       href: hc.html
-    #- text: "Reports"
-    #  href: reports.html
-   # - text: "Munition Library"
-   #   href: munitions_library.html
+    - text: "Munition Library"
+      href: munitions_library.html
     - text: "Submit Munition Photos"
       menu:
         - text: "Form"

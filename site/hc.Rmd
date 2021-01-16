@@ -13,21 +13,21 @@ We're studying the impacts of Hexachloroethane and Zinc Chloride gas on human an
 
 <br> 
 
-## <a href="images/hc_can_graphic.png">Infographic</a>
+#### <a href="images/hc_can_graphic.png">Infographic</a>
 
 
 <br> 
 
-## <a href="files/hc_press_release.pdf">Press Release</a>
+#### <a href="files/hc_press_release.pdf">Press Release</a>
 
 
 <br> 
 
-## [Full Report](https://doi.org/10.5281/zenodo.4059329) 
+#### [Quantifying use of lethal ZnCl2 on Black Lives Matter demonstrators by United States Homeland Security](https://doi.org/10.5281/zenodo.4059329) 
 
 <br>
 
-## Media Coverage
+### Media Coverage
 
 *What Tear Gas Does To Fish* 2020-09-23 [Hakai Magazine](https://www.hakaimagazine.com/news/what-tear-gas-does-to-fish/)
 

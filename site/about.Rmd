@@ -6,15 +6,25 @@ output:
     toc_float: false
 ---
 
-Formed in 2020 during the Black Lives Matter protests, we are a collection of research and outreach teams around Portland, Oregon focused on understanding the impact of chemical weapons used by law enforcement on humans and the environment. 
-Our projects are diverse, but we are brought together by an urgent need to understand what chemicals are being used and how they are affecting all of us.
+Formed in 2020 during the Black Lives Matter protests in Portland, Oregon, we are a collection of researchers and advocates around the world focused on understanding the impact of chemical weapons used by law enforcement on humans and the environment. 
+Our projects are diverse, but we are brought together by an urgent need to understand what chemicals are being used by military and law enforcement and how they are affecting all of us.
 
-## Member Research Groups
+<br>
 
-### [DAPPER Stats](https://www.dapperstats.com)
- 
-[Dr. Juniper L. Simonis (they/them)](https://www.dapperstats.com/author/dr.-juniper-l.-simonis/), lead scientist  
-Aquatic ecotoxicology, salmonids, biogeochemistry
+### Members 
+
+Dr. David Dayan (he/him), Oregon State University
+Molecular ecology, fisheries genomics
+
+Jake Dockter (he/him)
+Activist, researcher, rabble-rouser
+
+[Dr. Alexander Samuel (he/him)](https://www.gazlacrymo.fr), scientist
+Molecular Biology, Toxicology
+
+[Dr. Juniper L. Simonis (they/them)](https://www.dapperstats.com/author/dr.-juniper-l.-simonis/), Lead Scientist [DAPPER Stats](https://www.dapperstats.com)
+Aquatic ecotoxicology, biogeochemistry, conservation biology, quantitative ecology
+
 
 <br>
 

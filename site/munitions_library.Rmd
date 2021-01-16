@@ -1,5 +1,5 @@
 ---
-title: "Chemical Weapons Library"
+title: "Portland Chemical Weapons Library"
 output:
   html_document:
     toc: false
@@ -8,7 +8,7 @@ output:
 
 <br>
 
-Munitions used by law enforcement against racial justice protesters in Portland Oregon
+Munitions used by city, county, state, and federal law enforcement against racial justice protesters in Portland, Oregon:
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 
@@ -31,11 +31,12 @@ spec_md <- character(nrow(munitions_in))
 sds_md <- character(nrow(munitions_in)) 
 sds_file <- character(nrow(munitions_in)) 
 spec_file <- character(nrow(munitions_in)) 
+source_md <- character(nrow(munitions_in)) 
 
 for(i in 1:nrow(munitions_in)){
   folder[i] <- paste0(paste(rep(0, nchar_0[i]), collapse = ""), munitions_in$folder[i])
-  img[i] <- paste("files", "munitions_library", folder[i], munitions_in$item.image[i], sep = "/")
-  alt_file <- paste0("alt_", munitions_in$item.image[i], ".txt")
+  img[i] <- paste("files", "munitions_library", folder[i], munitions_in$item_image[i], sep = "/")
+  alt_file <- paste0("alt_", munitions_in$item_image[i], ".txt")
   alt[i] <- paste("files", "munitions_library", folder[i], alt_file, sep = "/")
   alt_txt <- scan(alt[i], "character", sep = ";", quiet = TRUE)
   img_md[i] <- paste0("![", alt_txt, "](", img[i], ")")
@@ -54,31 +55,38 @@ for(i in 1:nrow(munitions_in)){
   }
 
 
-  sds <- munitions_in$saftey.data.sheet[i]
+  sds <- munitions_in$saftey_data_sheet[i]
   if(is.na(sds) | sds == ""){
     sds_md[i] <- ""
   } else{
-    sds_file[i] <- paste("files", "munitions_library", folder[i], munitions_in$saftey.data.sheet[i], sep = "/")
+    sds_file[i] <- paste("files", "munitions_library", folder[i], munitions_in$saftey_data_sheet[i], sep = "/")
     sds_md[i] <- paste0("[Saftey Data Sheet](", sds_file[i] ,")")
   }
 
 
-  specs <- munitions_in$spec.sheet[i]
+  specs <- munitions_in$spec_sheet[i]
   if(is.na(sds) | sds == ""){
     sds_md[i] <- ""
   } else{
-    spec_file[i] <- paste("files", "munitions_library", folder[i], munitions_in$spec.sheet[i], sep = "/")
+    spec_file[i] <- paste("files", "munitions_library", folder[i], munitions_in$spec_sheet[i], sep = "/")
     spec_md[i] <- paste0("[Specification Sheet](", spec_file[i] ,")")
   }
 
+
+  source <- munitions_in$source[i]
+  if(is.na(source) | source == ""){
+    source_md[i] <- munitions_in$source[i]
+  } else{
+    source_md[i] <- paste0("[Source](", munitions_in$source[i] ,")")
+  }
 
 }
 
 
 
-text_tbl <- data.frame(Item = img_md, Manufacturer = manufacturer_md, Name = named_md, "Safety Data Sheet" = sds_md, "Spec Sheet" = spec_md) 
+text_tbl <- data.frame(img_md, manufacturer_md, named_md, sds_md, spec_md, source_md) 
 
-knitr::kable(text_tbl)
+knitr::kable(text_tbl, col.names = c("Item", "Manufacturer", "Name", "Safety Data Sheet", "Spec Sheet", ""))
 
 ```
 
