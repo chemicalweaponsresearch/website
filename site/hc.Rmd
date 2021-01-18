@@ -22,7 +22,7 @@ We're studying the impacts of [Hexachloroethane](https://en.wikipedia.org/wiki/H
 ### Quantifying the use of HC by Homeland Security in July 2020, Portland OR
 
 - [Report](https://doi.org/10.5281/zenodo.4059329) 
-- [Press Release]("files/hc_press_release.pdf")
+- [Press Release](files/hc_press_release.pdf)
 
 <br> 
 
