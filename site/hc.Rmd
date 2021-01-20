@@ -19,12 +19,17 @@ We're studying the impacts of [Hexachloroethane](https://en.wikipedia.org/wiki/H
 
 <br> 
 
+
 ### Quantifying the use of HC by Homeland Security in July 2020, Portland OR
 
 - [Report](https://doi.org/10.5281/zenodo.4059329) 
 - [Press Release](files/hc_press_release.pdf)
+- Press Conference
+  - [Slides](files/press_conference.pdf)
+  - [Text](files/text.pdf)
 
 <br> 
+
 
 
 <a target="_blank" href = "images/3hcs.jpg" >
@@ -36,10 +41,11 @@ We're studying the impacts of [Hexachloroethane](https://en.wikipedia.org/wiki/H
 
 ### Media Coverage
 
-- *What Tear Gas Does To Fish* 2020-09-23 [Hakai Magazine](https://www.hakaimagazine.com/news/what-tear-gas-does-to-fish/)
-- *Federal Agents Used Toxic Chemical Smoke Grenades in Portland*. 2020-10-10. [The Intercept](https://theintercept.com/2020/10/10/portland-tear-gas-chemical-grenades-protests/).
-- *"Highly Toxic" Smoke Grenades Deployed at Portland Protests*. 2020-10-20. [Portland Tribune](https://pamplinmedia.com/pt/9-news/484862-390719-sinister-smoke).
-- *Scientists Identified a Green, Poisonous Gas Used By Federal Agents on Portland Protesters* 2020-12-06 [Future Human](https://futurehuman.medium.com/scientists-identified-a-green-poisonous-gas-used-by-federal-agents-on-portland-protesters-5b56ac20a624)
+- *What Tear Gas Does To Fish*. 2020-09-23. B. Owens. [Hakai Magazine](https://www.hakaimagazine.com/news/what-tear-gas-does-to-fish/)
+- *Federal Agents Used Toxic Chemical Smoke Grenades in Portland*. 2020-10-10. S. Lerner. [The Intercept](https://theintercept.com/2020/10/10/portland-tear-gas-chemical-grenades-protests/).
+- *"Highly Toxic" Smoke Grenades Deployed at Portland Protests*. 2020-10-20. C. Vaughn. [Portland Tribune](https://pamplinmedia.com/pt/9-news/484862-390719-sinister-smoke) and [KOIN](https://www.koin.com/news/protests/military-grade-hc-smoke-used-against-portland-protesters/).
+- *Scientists Identified a Green, Poisonous Gas Used By Federal Agents on Portland Protesters*. 2020-12-06. L. Peskoe-Yang. [Future Human](https://futurehuman.medium.com/scientists-identified-a-green-poisonous-gas-used-by-federal-agents-on-portland-protesters-5b56ac20a624)
+- *Feds used toxic smoke grenades during summer protests in Portland, researcher finds* 2021-01-19. K. Williams. [The Oregonian](https://www.oregonlive.com/portland/2021/01/portland-researcher-finds-federal-agents-used-toxic-smoke-grenades-during-summer-protests.html?utm_medium=social&utm_campaign=oregonian_sf&utm_source=twitter) and [The Columbian](https://www.columbian.com/news/2021/jan/19/feds-used-toxic-smoke-grenades-during-summer-protests-in-portland-researcher-finds/).
 
 <br>
 

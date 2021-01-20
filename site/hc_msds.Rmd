@@ -1,0 +1,29 @@
+---
+title: "Manufacturer Removes Lethal Products from Safety Data Sheet of Hexachloroethane Smoke Grenades"
+author: "Dr. Juniper L. Simonis (they/them/their)"
+output:
+  html_document:
+    toc: false
+    toc_float: false
+---
+
+<br>
+
+[Defense Technology®](https://www.defense-technology.com/) (DT) is a Wyoming-based arms manufacturer with a focus on supplying chemical weapons to law enforcement, including [many used in 2020 in Portland, Oregon](https://www.chemicalweaponsresearch.com/munitions_library.html). 
+Boasting a catalog of 275 weapons including [sprays](https://www.defense-technology.com/product-category/oc-cs/), [fogs](https://www.defense-technology.com/product-category/pepper-foggers/), [shot shells](https://www.defense-technology.com/product-category/40mm-munitions/), and [grenades](https://www.defense-technology.com/product-category/canisters/) with active agents including [pepper oil (OC, Oleoresin Capsicum)](https://www.defense-technology.com/product-category/chemical-agent-devices/?filters=100), [phenacyl chloride (CN)](https://www.defense-technology.com/product-category/chemical-agent-devices/?filters=97), [2-chlorobenzalmalononitrile (CS)](https://www.defense-technology.com/product-category/chemical-agent-devices/?filters=69), [hexachloroethane (HC)](https://www.defense-technology.com/product/maximum-smoke-hc-military-style-canister/), [terepthalic acid (TPA)](https://www.defense-technology.com/product/military-style-saf-smoke-grenade/), [potassium chlorate (KClO<sub>3</sub>)](https://www.defense-technology.com/product/military-style-saf-smoke-grenade/), and [cyclohexanone (CH<sub>2</sub>)<sub>5</sub>CO)](https://www.defense-technology.com/product/pepper-fog-inert-screening-white-smoke-1-quart/), DT has [lined the pockets of multi-millionare Warren Kanders](https://www.forbes.com/sites/denizcam/2018/12/06/meet-the-safariland-multimillionaire-getting-rich-off-tear-gas-and-more-in-the-defense-industry/?sh=8e0d91b7b0a6) while [arming up law enforcement agencies around the country](https://upnorthnewswi.com/2020/07/28/milwaukee-police-want-thousands-of-rubber-bullets-tear-gas-smoke-grenades-for-policing-dnc/).
+
+Although Defense Technology® has gone through multiple [restructurings](https://www.courtlistener.com/docket/4294796/gamradt-v-federal-laboratories/#entry-53) and exists within [a seven-layer-salad of subsidiaries](https://www.courtlistener.com/docket/4294796/gamradt-v-federal-laboratories/#entry-18) under [BAE Systems](http://baesystems.com/), many of its signature products have remained remarkably consistent over the last three decades, with only [minor cosmetic changes and persistent item numbering](https://web.archive.org/web/20010519013826/http://www.defense-technology.com/).
+Despite the consistency, however, DT has undertaken a concerted effort to reduce or remove hazardous warnings from their Safety Data Sheets, despite [federal regulation under Occupational Safety and Health Standards](https://www.law.cornell.edu/cfr/text/29/1910.1200).
+
+Nowhere is this more evident than their [Hexachloroethane (HC) smoke](https://www.chemicalweaponsresearch.com/hc.html) grenades, such as the the [Maximum HC Smoke Military-Style Canister](https://www.defense-technology.com/product/maximum-smoke-hc-military-style-canister/).
+
+HC was [designed as an obscurant smoke]() in the early 1930s by the US Army Chemical Warfare Service but was quickly [understood to be a poisonous chemical agent]() and has since been [replaced throughout the US Armed Services]().
+
+HC itself is listed as hazardous by the [International Agency for Research on Cancer](), and the US [Environmental Protection Agency](), [Department of Transportation](), [Occupational Safety and Health Administration](), [American Conference of Governmental Industrial Hygienists](), [National Institute for Occupational Safety and Health](), and [National Toxicology Program]() and has significant human and environmental health consequences. 
+
+A more dire result of the use of HC grenades, however, is that they produce a high volume (> 75% of all products w/w) of [gaseous ZnCl<sub>2</sub>](), a lethal vapor, during the focal reaction.
+Additionally, given the excessive heat (> 1000 C) and corrosive nature of involved compounds, a bevvy of toxic by-products are also generated including [carbon monoxide (CO)](), [phosgene (COCl<sub>2</sub>)](), [hexachlorobenzene (C<sub>6</sub>Cl<sub>6</sub>)](), [tetrachloroethene (C<sub>2</sub>Cl<sub>4</sub>)](), [carbon tetrachloride (CCl<sub>4</sub>)](), [hydrogen chloride (HCl)](), and [chlorine (Cl<sub>2</sub>)]().
+
+
+
+
