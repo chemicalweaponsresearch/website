@@ -55,12 +55,12 @@ for(i in 1:nrow(munitions_in)){
   }
 
 
-  sds <- munitions_in$saftey_data_sheet[i]
+  sds <- munitions_in$safety_data_sheet[i]
   if(is.na(sds) | sds == ""){
     sds_md[i] <- ""
   } else{
-    sds_file[i] <- paste("files", "munitions_library", folder[i], munitions_in$saftey_data_sheet[i], sep = "/")
-    sds_md[i] <- paste0("[Saftey Data Sheet](", sds_file[i] ,")")
+    sds_file[i] <- paste("files", "munitions_library", folder[i], munitions_in$safety_data_sheet[i], sep = "/")
+    sds_md[i] <- paste0("[Safety Data Sheet](", sds_file[i] ,")")
   }
 
 
