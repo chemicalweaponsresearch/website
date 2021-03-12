@@ -1,0 +1,77 @@
+
+[[main]]
+  name = "The Consortium"
+  identifier = "the_consortium"
+  url = ""
+  weight = "10"
+
+[[main]]
+  name = "About"
+  identifier = "about"
+  url = "/about/#people"
+  weight = "11"
+  parent = "the_consortium"
+
+[[main]]
+  name = "Support"
+  identifier = "support"
+  url = "/about/#support"
+  weight = "12"
+  parent = "the_consortium"
+
+[[main]]
+  name = "Open Letter"
+  url = "about/#moratorium_letter"
+  weight = "13"
+  parent = "the_consortium"
+
+[[main]]
+  name = "Reports"
+  identifier = "reports"
+  url = ""
+  weight = "30"
+
+[[main]]
+  name = "Hexachloroethane"
+  url = "/hc/"
+  weight = "31"
+  parent = "reports"
+
+
+[[main]]
+  name = "Munitions"
+  url = ""
+  identifier = "munitions"
+  weight = "40"
+
+
+[[main]]
+  name = "Munitions Library"
+  url = "/munitions_library/"
+  parent = "munitions"
+  weight = "41"
+
+[[main]]
+  name = "Submit Munitions Photos"
+  parent = "munitions"
+  url = "/munition_submission/"
+  weight = "42"
+
+
+[[main_right]]
+  url = "/contact/"
+  name = "<i class='far fa-envelope' style='color:#333'></i>"
+  identifier = "email"
+  weight = 1
+
+[[main_right]]
+  url = "https://www.github.com/chemicalweaponsresearch"
+  name = "<i class='fab fa-github-alt' style='color:#333'></i>"
+  identifier = "github"
+  weight = 2
+
+[[main_right]]
+  url = "https://www.twitter.com/chemweaponsci"
+  name = "<i class='fab fa-twitter' style='color:#55acee'></i>"
+  identifier = "twitter"
+  weight = 3
