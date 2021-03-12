@@ -23,7 +23,7 @@ We're studying the impacts of [Hexachloroethane](https://en.wikipedia.org/wiki/H
 
 #### [Quantifying the use of HC by Homeland Security in July 2020, Portland OR](https://doi.org/10.5281/zenodo.4059329) 
 
-#### [Manufacturer Removes Lethal Products from HC Safety Data Sheet](hc_msds.html)
+
 
 <br>
 
@@ -31,7 +31,7 @@ We're studying the impacts of [Hexachloroethane](https://en.wikipedia.org/wiki/H
 
 - [Press Release](files/hc_press_release.pdf)
 - Press Conference
-  - [Video with ASL and captions](https://www.youtube.com/watch?v=_4Q2kWuF7W8)
+  - [Video with ASL and captions](https://www.youtube.com/watch?v=ZO_8OOMQdIE)
   - [Slides](files/press_conference.pdf)
   - [Text](files/text.pdf)
 
