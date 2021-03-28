@@ -3,3 +3,56 @@
   font-size: 1.1rem;
   color: #b2b2b2;
 }
+
+.home-section-bg.bg-image{
+
+}
+
+body#top .section-heading h1{
+  color: #ffffff00;
+  font-size: 0.001rem;
+}
+
+figcaption {
+  font-style: italic;
+  font-size: 0.75rem;
+  padding: 2px;
+  text-align: right;
+}
+
+.wg-hero .cta-btns{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  float: left;
+}
+
+.left {
+  width: 80%;
+}
+
+.right {
+  width: 20%;
+}
+
+.hero-lead{
+  max-width: 100%
+}
+
+h1 {
+  text-align: center;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}

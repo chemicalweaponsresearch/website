@@ -1,0 +1,26 @@
+name = "jls_rose"
+
+light = true
+
+primary = "#B6A9C7"
+
+menu_primary = "#51494B"
+menu_text = "#C6C6C6"
+menu_text_active = "#B6A9C7"
+menu_title = "#C6C6C6"
+
+background = "#f7f9f6"
+home_section_odd = "#fcfdfd"
+home_section_even = "#f7f9f6"
+
+
+
+[dark]
+  background = "#444540"
+  home_section_odd = "#44433F"
+  home_section_even = "#444540"
+
+  menu_primary = "#383836"
+  menu_text = "#C6C6C6"
+  menu_text_active = "#B6A9C7"
+  menu_title = "#C6C6C6"

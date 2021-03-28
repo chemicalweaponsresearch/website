@@ -6,11 +6,12 @@ weight: 4
 widget: blank
 design:
   columns: 1
-  background:
-    gradient_start: '#3d7fb8'
-    gradient_end: '#7dc7c7'
-    text_color_light: true
-css_style: "custom.scss"
+  spacing:
+    padding:
+    - 50px
+    - "0"
+    - 50px
+    - "0"
 ---
 
 ## An Open Letter from the Scientific Community to Politicians Regarding the Use of Chemical Weapons

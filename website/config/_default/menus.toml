@@ -60,18 +60,18 @@
 
 [[main_right]]
   url = "/contact/"
-  name = "<i class='far fa-envelope' style='color:#333'></i>"
+  name = "<i class='far fa-envelope'></i>"
   identifier = "email"
   weight = 1
 
 [[main_right]]
   url = "https://www.github.com/chemicalweaponsresearch"
-  name = "<i class='fab fa-github-alt' style='color:#333'></i>"
+  name = "<i class='fab fa-github-alt'></i>"
   identifier = "github"
   weight = 2
 
 [[main_right]]
   url = "https://www.twitter.com/chemweaponsci"
-  name = "<i class='fab fa-twitter' style='color:#55acee'></i>"
+  name = "<i class='fab fa-twitter'></i>"
   identifier = "twitter"
   weight = 3

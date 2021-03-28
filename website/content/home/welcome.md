@@ -1,32 +1,34 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget: hero  # See https://wowchemy.com/docs/page-builder/
-headless: true  # This file represents a page section.
-weight: 2  # Order that this section will appear.
+widget: hero  
+headless: true  
+weight: 2  
 title: ""
 subtitle: ""
-hero_media: welcome.jpg
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-advanced:
-  css_style:
-  css_class:
 cta:
   url: "/contact"
-  label: "Join our team!"
+  label: "Get involved!"
 ---
 
 # Chemical Weapons Research Consortium
 
-<br>
-
-We are an interdisciplinary, international group of researchers and activists focused on understanding how chemical weapons affect people and the environment. 
 
 <br>
 
-Interested in collaborating?
+<div class="row">
+  <div class="left">
+  <div class="center">
+  <div class="col">
+  We are an interdisciplinary, international group of researchers and activists focused on understanding and communicating how chemical weapons affect people and the environment. 
+  </div></div></div>
+  <div class="right">
+  <div class="center">
+  <div class="col">
+  <img src="media/welcome.jpg" alt="Rough pen sketch of a person with hair pulled back in a ponytail in goggles and a lab coat holding a chemical grenade, with one hand on the side/bottom and one hand on the fuse top." width = "100%">
+  </div></div></div>
+</div>
+
+<br>
+<br>
 

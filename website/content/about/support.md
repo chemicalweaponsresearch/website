@@ -1,16 +1,23 @@
 ---
 headless: true
 subtitle: 
-title: Support
+title: 
 weight: 3
 widget: blank
 design:
   columns: 1
-  background:
-    gradient_start: '#3d7fb8'
-    gradient_end: '#7dc7c7'
-    text_color_light: true
+ 
+  spacing:
+    padding:
+    - 50px
+    - "0"
+    - 50px
+    - "0"
 ---
+
+## Support Our Work
+
+<br>
 
 [Our members](about.html) are engaged in a variety of projects that need support; please help if you can!
 
