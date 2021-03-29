@@ -7,7 +7,7 @@ subtitle: ""
 design:
   columns: '1'
 cta:
-  url: "/contact"
+  url: "/about#get_involved"
   label: "Get involved!"
 ---
 

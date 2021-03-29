@@ -1,17 +1,17 @@
 ---
-headless: true
-subtitle: 
-title: 
-weight: 4
+
 widget: blank
+active: true
+headless: true
+weight: 5
+
+title:
+subtitle:
+
 design:
-  columns: 1
+  columns: "1"
   spacing:
-    padding:
-    - 50px
-    - "0"
-    - 50px
-    - "0"
+    padding: ["50px", "0", "50px", "0"]
 ---
 
 ## An Open Letter from the Scientific Community to Politicians Regarding the Use of Chemical Weapons

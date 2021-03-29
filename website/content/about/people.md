@@ -1,17 +1,17 @@
 ---
-headless: true
-subtitle: 
-title: 
-weight: 2
+
 widget: blank
+active: true
+headless: true
+weight: 2
+
+title:
+subtitle:
+
 design:
-  columns: 1
+  columns: "1"
   spacing:
-    padding:
-    - 50px
-    - "0"
-    - 50px
-    - "0"
+    padding: ["50px", "0", "50px", "0"]
 ---
 
 ## Chemical Weapons Research Consortium

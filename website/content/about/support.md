@@ -1,18 +1,14 @@
 ---
-headless: true
-subtitle: 
-title: 
-weight: 3
 widget: blank
+active: true
+headless: true
+weight: 3
+title:
+subtitle:
 design:
-  columns: 1
- 
+  columns: "1"
   spacing:
-    padding:
-    - 50px
-    - "0"
-    - 50px
-    - "0"
+    padding: ["50px", "0", "50px", "0"]
 ---
 
 ## Support Our Work

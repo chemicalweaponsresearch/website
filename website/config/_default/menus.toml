@@ -20,9 +20,15 @@
   parent = "the_consortium"
 
 [[main]]
+  name = "Get Involved"
+  url = "about/#get_involved"
+  weight = "13"
+  parent = "the_consortium"
+
+[[main]]
   name = "Open Letter"
   url = "about/#moratorium_letter"
-  weight = "13"
+  weight = "14"
   parent = "the_consortium"
 
 [[main]]
