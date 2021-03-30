@@ -41,9 +41,3 @@ Molecular Biology, toxicology
 [Dr. Juniper L. Simonis (they/them)](https://www.dapperstats.com/author/dr.-juniper-l.-simonis/), Lead Scientist [DAPPER Stats](https://www.dapperstats.com)  
 Aquatic ecotoxicology, biogeochemistry, conservation biology, quantitative ecology
 
-
-<br>
-
-### Join Us!
-
-If you are working on chemical weapons and are interested in joining the consortium, [send us an email](mailto:chemicalweaponsresearch@protonmail.com)!
