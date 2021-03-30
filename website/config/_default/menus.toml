@@ -8,7 +8,7 @@
 [[main]]
   name = "About"
   identifier = "about"
-  url = "#people"
+  url = "#about"
   weight = "11"
   parent = "the_consortium"
 
@@ -26,11 +26,16 @@
   parent = "the_consortium"
 
 [[main]]
+  name = "Letters"
+  identifier = "letters"
+  weight = "20"
+
+[[main]]
   name = "Moratorium Letter"
   identifier = "moratorium_letter"
   url = "moratorium_letter"
-  weight = "20"
-
+  weight = "21"
+  parent = "letters"
 
 [[main]]
   name = "Reports"

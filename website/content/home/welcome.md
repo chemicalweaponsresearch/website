@@ -11,9 +11,9 @@ design:
     padding: ["50px", "0", "50px", "0"]
 cta:
   url: "/about#get_involved"
-  label: Get involved!
+  label: " Get involved!"
   icon_pack: fas
-  icon: 
+  icon: user-plus
 ---
 
 # Chemical Weapons Research Consortium

@@ -9451,6 +9451,10 @@ figcaption {
 h1 {
   text-align: center; }
 
+h6 {
+  text-align: center;
+  font-weight: normal; }
+
 .center {
   display: flex;
   justify-content: center;
@@ -9462,3 +9466,19 @@ h1 {
 
 .cta-group {
   justify-content: center; }
+
+.btn-toolbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%; }
+
+.btn-toolbar .btn:last-child {
+  border-radius: 6px 6px 6px 6px;
+  margin-left: 3px;
+  margin-right: 3px; }
+
+.btn-group > .btn:not(:last-child):not(.dropdown-toggle), .btn-group > .btn-group:not(:last-child) > .btn {
+  border-radius: 6px 6px 6px 6px;
+  margin-left: 3px;
+  margin-right: 3px; }

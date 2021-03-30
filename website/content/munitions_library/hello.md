@@ -10,7 +10,7 @@ subtitle:
 design:
   columns: "1"
   spacing:
-    padding: ["50px", "0", "50px", "0"]
+    padding: ["50px", "0", "0px", "0"]
 ---
 
 # Portland Chemical Weapons Library
@@ -18,5 +18,5 @@ design:
 <br>
 
 
-Munitions used by city, county, state, and federal law enforcement against racial justice protesters in Portland, Oregon:
+###### Munitions used by city, county, state, and federal law enforcement against racial justice protesters in Portland, Oregon:
 
