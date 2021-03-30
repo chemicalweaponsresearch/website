@@ -1,14 +1,11 @@
 ---
-title: "Hexachloroethane"
-
+summary: "Hexachloroethane"
 widget: blank
 active: true
 headless: true
 weight: 1
-
-
+title:
 subtitle:
-
 design:
   columns: "1"
   spacing:
@@ -23,10 +20,11 @@ We're studying the impacts of [Hexachloroethane](https://en.wikipedia.org/wiki/H
 
 HC is a heavy munitions smoke designed by the US Army Chemical 
 
+<br>
 
-{{< figure src="hc_can_graphic.png" alt="Two panel image, left half is a photo of a green grenade canister with yellow writing that says CM Military Style Maximum Smoke HC Defense Technology with a halo effect around the can. right half is info: Hexachloroethance (HC) Smoke. Produces DEADLY Zinc Chloride gas, one grenade can kill 9 people, highly corrosive lung and skin irritant, acute delayed metal fume fever, carinogentic, defoliates trees, kills fish and other wildlife, bioaccumulates, has GHS symols for irritant, toxic, and environemtal toxin. us department of homeland security seplyed at least 25 grenades in the second half of  july in portland or" style="max-width:10%">}}
+{{< figure src="hc_can_graphic.png" alt="Two panel image, left half is a photo of a green grenade canister with yellow writing that says CM Military Style Maximum Smoke HC Defense Technology with a halo effect around the can. right half is info: Hexachloroethance (HC) Smoke. Produces DEADLY Zinc Chloride gas, one grenade can kill 9 people, highly corrosive lung and skin irritant, acute delayed metal fume fever, carinogentic, defoliates trees, kills fish and other wildlife, bioaccumulates, has GHS symols for irritant, toxic, and environemtal toxin. us department of homeland security seplyed at least 25 grenades in the second half of  july in portland or" width="50%">}}
 
-
+<br>
 
 ### Reports
 
@@ -42,10 +40,10 @@ HC is a heavy munitions smoke designed by the US Army Chemical
   - [Text](text.pdf)
 - [Contact us](/contact/) for more information or with interview requests.
 
+<br>
 
-<a target="_blank" href = "3hcs.JPG" >
-<img src="3hcs.JPG" alt="Three canisters of HC stand in the foreground of the image, the background yields three other canisters of various chemical agents. The HC canisters are cylindrical with riveted tops resembling a paint can lid. Their markings have burned away with the heat of their ignition. Metal along the top has melted, peeled and been blown outwards. Their rough rounded edges border holes into the center of the canister. Chemical reactions have changed the color of the metal to dark grey, rust brown, and a navy blue. The canisters are dented from impact and appear to have lost any smoothness they may have once possessed." width="60%" class="center"> 
-</a>
+{{< figure src="3hcs.JPG" alt="Three canisters of HC stand in the foreground of the image, the background yields three other canisters of various chemical agents. The HC canisters are cylindrical with riveted tops resembling a paint can lid. Their markings have burned away with the heat of their ignition. Metal along the top has melted, peeled and been blown outwards. Their rough rounded edges border holes into the center of the canister. Chemical reactions have changed the color of the metal to dark grey, rust brown, and a navy blue. The canisters are dented from impact and appear to have lost any smoothness they may have once possessed." caption="Three Used HC Grenades - JL Simonis 2020" width="50%">}}
+
 
 ### Media Coverage
 

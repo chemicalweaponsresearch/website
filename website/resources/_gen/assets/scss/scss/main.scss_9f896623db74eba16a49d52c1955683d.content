@@ -9420,8 +9420,8 @@ body#top .section-heading h1 {
 figcaption {
   font-style: italic;
   font-size: 0.75rem;
-  padding: 2px;
-  text-align: right; }
+  padding: 1px;
+  text-align: center; }
 
 .wg-hero .cta-btns {
   display: flex;

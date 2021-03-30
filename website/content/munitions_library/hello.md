@@ -13,9 +13,10 @@ design:
     padding: ["50px", "0", "50px", "0"]
 ---
 
-<small>
+# Portland Chemical Weapons Library
 
-Juniper is an avid science photographer whose subjects range from the urban chemical warzones to craggy coastlines where they conduct research. 
-They are currently collating their photos into projects. 
-Stay tuned!
-</small>
+<br>
+
+
+Munitions used by city, county, state, and federal law enforcement against racial justice protesters in Portland, Oregon:
+

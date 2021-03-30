@@ -14,17 +14,31 @@ content:
   filter_button:
     - name: "All"
       tag: "*"
-    - name: "Code Packages"
-      tag: "package"
-    - name: "Applications"
-      tag: "application"
+    - name: "Projectiles"
+      tag: "projectile"
+    - name: "Grenades"
+      tag: "grenade"
+    - name: "CS"
+      tag: "CS"
+    - name: "OC"
+      tag: "OC"
+    - name: "PAVA"
+      tag: "PAVA"
+    - name: "Terephthalic Acid"
+      tag: "Terephthalic Acid" 
+    - name: "Hexachloroethane"
+      tag: "Hexachloroethane"
+    - name: "Silica"
+      tag: "Silica"
+    - name: "Paint"
+      tag: "Paint"
 
 design:
   columns: "1"
   view: 3
   flip_alt_rows: true
   spacing:
-    padding: ["15px", "0", "0px", "0"] 
+    padding: ["50px", "0", "50px", "0"] 
   
 ---
 
