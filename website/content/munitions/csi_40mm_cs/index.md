@@ -17,14 +17,7 @@ links:
   icon_pack: fas 
   name: Product 
   url: https://www.combinedsystems.com/product/4230-40mm-cs-smoke-pyro-long-range/ 
-- icon: file-alt 
-  icon_pack: fas 
-  name: Safety Sheet 
-  url: munitions/csi_40mm_cs/files/sds.pdf 
-- icon: file-alt 
-  icon_pack: fas 
-  name: Spec Sheet 
-  url: munitions/csi_40mm_cs/files/spec_sheet.pdf 
+
 image: 
   alt_text: four silver shells with blue writing and stripes 
 ---

@@ -21,10 +21,6 @@ links:
   icon_pack: fas 
   name: Safety Sheet 
   url: munitions/csi_rubber_ball_60cal/files/sds.pdf 
-- icon: file-alt  
-  icon_pack: fas 
-  name: Spec Sheet 
-  url: munitions/csi_rubber_ball_60cal/files/spec_sheet.pdf 
 image: 
   alt_text: a hand ball rubber black grenade, about softball sized, with white writing that says CTS and then a lot of tiny writing 
 ---

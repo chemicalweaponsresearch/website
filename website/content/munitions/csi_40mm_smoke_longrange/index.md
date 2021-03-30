@@ -19,10 +19,6 @@ links:
   url: https://www.combinedsystems.com/product/4210-40mm-outdoor-white-smoke-long-range/ 
 - icon: file-alt  
   icon_pack: fas 
-  name: Safety Sheet 
-  url: munitions/csi_40mm_smoke_longrange/files/sds.pdf 
-- icon: file-alt  
-  icon_pack: fas 
   name: Spec Sheet 
   url: munitions/csi_40mm_smoke_longrange/files/spec_sheet.pdf 
 image: 

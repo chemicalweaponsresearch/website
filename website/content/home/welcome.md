@@ -10,7 +10,7 @@ design:
   spacing:
     padding: ["50px", "0", "50px", "0"]
 cta:
-  url: "/about#get_involved"
+  url: "#get_involved"
   label: " Get involved!"
   icon_pack: fas
   icon: user-plus

@@ -18,14 +18,7 @@ links:
   icon_pack: fas 
   name: Product 
   url: https://web.archive.org/web/20190111210057/http://pround-aps.com/ProundSpec.htm 
-- icon: file-alt  
-  icon_pack: fas 
-  name: Safety Sheet 
-  url: munitions/pround_red/files/sds.pdf 
-- icon: file-alt  
-  icon_pack: fas 
-  name: Spec Sheet 
-  url: munitions/pround_red/files/spec_sheet.pdf 
+
 image: 
   alt_text: Small dimpled spheres that resemble golf balls are pictured on the ground. Their paint colors vary, but the ones pictured are red and a gradient of white to yellow to Orange to pink and red. These dimples function to make the spheres noticeably more aerodynamic when propelled. They're made of a smooth plastic like substance that appears hard to the touch. Much like a smaller golf ball. 
 ---
