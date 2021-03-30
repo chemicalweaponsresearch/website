@@ -1,0 +1,20 @@
+---
+title: "Research on the Impacts of Chemical Weapons"
+output:
+  html_document:
+    toc: false
+    toc_float: false
+---
+
+<br>
+
+<center>
+
+<img src="images/logo1.png" alt="Sketch of a person in goggles and a lab coat holding a chemical grenade" width=500>
+</center>
+<br>
+
+This site is **under construction**!  
+Check back soon for updates!
+
+<br>
