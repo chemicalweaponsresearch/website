@@ -84,7 +84,7 @@ show_related = false
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "chemicalweaponsresearch@protonmail.com"
+email = ""
 phone = ""
 
 # Address

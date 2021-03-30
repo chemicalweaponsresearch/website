@@ -2,11 +2,9 @@
 content:
   autolink: true
   form:
-    formspree:
-      id: null
-    netlify:
-      captcha: false
     provider: netlify
+    netlify:
+      captcha: true
 design:
   columns: "1"
 headless: true
