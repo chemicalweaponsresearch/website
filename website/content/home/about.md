@@ -3,7 +3,7 @@
 widget: blank
 active: true
 headless: true
-weight: 1
+weight: 3
 
 title:
 subtitle:
@@ -14,9 +14,6 @@ design:
     padding: ["50px", "0", "50px", "0"]
 ---
 
-## Chemical Weapons Research Consortium
-
-<br>
 
 Formed in 2020 during the Black Lives Matter protests in Portland, Oregon, we are a collection of researchers and advocates around the world focused on understanding the impact of chemical weapons used by law enforcement on humans and the environment. 
 Our projects are diverse, but we are brought together by an urgent need to understand what chemicals are being used by military and law enforcement and how they are affecting all of us.

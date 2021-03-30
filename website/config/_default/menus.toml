@@ -8,28 +8,29 @@
 [[main]]
   name = "About"
   identifier = "about"
-  url = "/about/#people"
+  url = "#people"
   weight = "11"
   parent = "the_consortium"
 
 [[main]]
   name = "Support"
   identifier = "support"
-  url = "/about/#support"
+  url = "#support"
   weight = "12"
   parent = "the_consortium"
 
 [[main]]
   name = "Get Involved"
-  url = "about/#get_involved"
+  url = "#get_involved"
   weight = "13"
   parent = "the_consortium"
 
 [[main]]
-  name = "Open Letter"
-  url = "about/#moratorium_letter"
-  weight = "14"
-  parent = "the_consortium"
+  name = "Moratorium Letter"
+  identifier = "moratorium_letter"
+  url = "moratorium_letter"
+  weight = "20"
+
 
 [[main]]
   name = "Reports"

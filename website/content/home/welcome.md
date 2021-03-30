@@ -1,13 +1,19 @@
 ---
-widget: blank  
+widget: hero  
 headless: true  
 weight: 2  
-title: ""
+title: "Rough pen sketch of a person with hair pulled back in a ponytail in goggles and a lab coat holding a chemical grenade, with one hand on the side/bottom and one hand on the fuse top."
 subtitle: ""
+hero_media: welcome.jpg
 design:
   columns: "1"
   spacing:
     padding: ["50px", "0", "50px", "0"]
+cta:
+  url: "/about#get_involved"
+  label: Get involved!
+  icon_pack: fas
+  icon: 
 ---
 
 # Chemical Weapons Research Consortium
@@ -18,22 +24,5 @@ We are an interdisciplinary, international group of researchers and activists fo
 
 <br>
 
-<div class="row">
-  <div class="left">
-  <div class="center">
-  <div class="col">
-{{< cta cta_text="Get involved!" cta_link="/about#get_involved" cta_new_tab="false" >}}  
-{{< cta cta_text="Support our work!" cta_link="/about#support" cta_new_tab="false" >}}  
-{{< cta cta_text="Submit a munitions photo!" cta_link="/munition_submission" cta_new_tab="false" >}}
-  </div></div></div>
-  <div class="right">
-  <div class="col">
-  <div class="center">
-  <img src="media/welcome.jpg" alt="Rough pen sketch of a person with hair pulled back in a ponytail in goggles and a lab coat holding a chemical grenade, with one hand on the side/bottom and one hand on the fuse top." width = "50%">
-  </div></div></div>
-</div>
-
-<br>
-<br>
 
 

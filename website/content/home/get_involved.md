@@ -2,7 +2,7 @@
 widget: blank
 active: true
 headless: true
-weight: 2
+weight: 5
 
 title:
 subtitle:
