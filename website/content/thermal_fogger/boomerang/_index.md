@@ -1,9 +1,9 @@
 ---
-linktitle: Boomerang Support
+linktitle: The Boomerang
 summary: 
-weight: 5
+weight: 4
 
-title: Boomerang Support
+title: The Boomerang
 date: "04/05/2021"
 type: book  # Do not modify.
 
