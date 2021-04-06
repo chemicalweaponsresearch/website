@@ -43,7 +43,7 @@ The police reportedly chased protesters across campus with the fogger, including
 
 Police deployed a fogger to clear demonstraters including striking students from outside a University Regents and Sproul Hall plaza on the University of California campus. 
 
-{{< figure src="berkeley_1969_02_21.jpg" alt="Police use pepper foger to create cloud of tear gas as they move on strikers to clear Sproul Hall plaza" caption="Police use a pepper fogger and other weapons to clear a University plaza, Berkeley CA 02/21/1969; AP Wirephoto" width="500px">}}
+{{< figure src="berkeley_1969_02_21.jpg" alt="Police use pepper fogger to create cloud of tear gas as they move on strikers to clear Sproul Hall plaza" caption="Police use a pepper fogger and other weapons to clear a University plaza, Berkeley CA 2/21/1969; AP Wirephoto" width="500px">}}
 
 This deployment was covered across the country and in Canada on February 21 [Press-Telegram (Long Beach, California), Red Deer Advocate Red Deer, Alberta, Canada), The Sumter Daily Item (Sumter, South Carolina), The New Mexican (Santa Fe, New Mexico), The Leader-Post (Regina, Saskatchewan), The Jackson Sun (Jackson, Tennessee), and The Daily Tribune (Wisconsin Rapids, Wisconsin)] and 22 [Janesville Daily Gazette (Janesville, Wisconsin) and Messenger-Inquirer (Owensboro, Kentucky)], 1969.
 
@@ -53,10 +53,9 @@ This deployment was covered across the country and in Canada on February 21 [Pre
 
 The following week, the police were joined by California National Guard troops to attack strikers, and continued to use the pepper fogger. 
 
-{{< figure src="berkeley_1969_02_28_1.jpg" alt="Guardsmen with bayonetted rifles and sheriff's deputies with tear and and pepper fogger walking through UC campus" caption="National guardsmen and police use a pepper fogger and other weapons on striking students, Berkeley CA 02/28/1969; AP Wirephoto" width="500px">}}
+{{< figure src="berkeley_1969_02_28_1.jpg" alt="Guardsmen with bayonetted rifles and sheriff's deputies with tear and and pepper fogger walking through UC campus" caption="National guardsmen and police use a pepper fogger and other weapons on striking students, Berkeley CA 2/28/1969; AP Wirephoto" width="500px">}}
 
-
-{{< figure src="berkeley_1969_02_28_2.jpg" alt="Guardsmen with bayonetted rifles and sheriff's deputies with tear and and pepper fogger walking through UC campus" caption="View from behind of the police using a pepper fogger on striking students, Berkeley CA 02/28/1969; AP Wirephoto" width="500px">}}
+{{< figure src="berkeley_1969_02_28_2.jpg" alt="View from behind of the police using a pepper fogger on striking students" caption="View from behind of the police using a pepper fogger on striking students, Berkeley CA 2/28/1969; AP Wirephoto" width="500px">}}
 
 This deployment was covered in the Miami News (Miami, Florida) and the Press and Sun-Bulletin (Binghamton, New York) on March 1st 1969.
 
@@ -140,32 +139,63 @@ During the gassings, a pepper fogger was specifically used in the building and c
 The gassing lasted for four hours despite yells for help, resulting in serious injuries including burned and blistered skin, eyes swollen shut, and breathing difficulties (Coffey 1975b). 
 That intense fogging and lack of medical attention over the next two days were main factors contributing to Forsythe's injuries and death two days later, according to medical experts' testimony (Allen 1974b, Allen 1975a,b).
 
-Although the guards involved were indicted by a grand jury and brought to trial, they ultimately were acquitted of all charges (UPI 1975a,b)
-
+Although the guards involved were indicted by a grand jury and brought to trial, they ultimately were acquitted of all charges (UPI 1975a,b).
 
 <br>
 
 ## Miami FL, July 17 1974
  
+Dade County Sherrifs used foggers to sweep a field in search of a murder suspect that had elluded K-9 units, helicopters, a plane, and an attempt to flush him out by burning the field (Tampa Bay Times 1974). 
+The suspect was so well dug in that he could withstand significant gassing that suprised a Sheriff's seargent who participated in the operation (Tampa Bay Times 1974).
+
 <br>
 
 ## Clermont IN, Septmeber 1 1974 
+
+Indiana State Police used a pepper fogger and gas grenades on a crowd of 2,000 drag racing fans blocking a highway between the track and campsites at the Hot Rod Association's US Nationals in 1974 (AP 1974).
+
+Versions of an AP article describing the incident were published in The Courier (Waterloo, Iowa) on September 2, 1974 and The Billings Gazette (Billings, Montana) on September 3, 1974 (AP 1974).
 
 <br>
 
 ## Ft Lauderdale FL, December 31 1975 
 
-<br>
+New Year's Eve 1975 was apparently quite raucous in Florida, as many cities experienced celebrations that got out-of-hand enough to elicit police use of force (UPI 1976).
+In Ft. Lauderdale, revelers pulled down at traffic light and police deployed multiple foggers on a crowd of 2,500 on the beach (UPI 1976).
 
-## Bullitt KY, December 15 1981
+{{< figure src="ft_lauderdale_1975_12_31.png" alt="Police walking towards the camera person down a street, carrying two pepper foggers and other weapons." caption="Police carrying pepper foggers towards a crowd in the street, Ft Lauderdale, FL 12/31/1975; UPI Photo" width="500px">}}
+
+
+The mayhem was noteworthy enough to garner publication in the Berkeley Gazette (Berkeley, California) as well as the Tampa Tribune (Tampa, Florida) (UPI 1976).
 
 <br>
 
 ## Raiford FL, July 5 1981
 
+According to the superintendent, a riot was caused in the Florida State Prison's Union Correctional Institution on July 5th by 22 prisoners who were intoxicated, and the only way to subdue them was to deploy a thermal fogger (UPI 1981).
+As a result of two officers being "slightly injured" and three inmates being stabbed, an investigation was launched that caused the event to be picked up in the newspapers (UPI 1981).
+
 <br>
 
-## Kingston RI, March 22 1982
+## Bullitt KY, December 15 1981
+
+Although not an intentional deployment, in at least one documented incident, a pepper fogger used in firefighter training exercises caused severe symptoms and led to an investigation (Judd 1981).
+The Southeast Bullitt Volunteer Fire Department In Kentucky was conducting a smoke training exercise using a pepper fogger on loan from the fire marshal's office when their "victim" and 16 others (including firefighters) began experiencing coughing fits, headaches, and chest pains (Judd 1981).
+
+Although Smith and Wesson (the Pepper Fogger manufacturer at the time) claimed this was a one-off incident, the Kentucky State Fire Marshal's office had received other reports of firefighters becoming sick when using foggers in smoke training (Judd 1981). 
+Residue tests later revealed no unexpected compounds (Courier-Journal 1982), indicating the toxicity had come from the design-for-use "safe" smoke.
+
+<br>
+
+
+## North Kingston RI, March 22 1982
+
+The Brown and Sharpe company called in Rhode Island State Police officers to help try to break a (at the time) 22-long strike at their factory in North Kigston, Rhode Island (AP 1982). 
+The police deployed tear gas via a pepper fogger on 75 strikers blocking the main entrance to the tool factory, and were able to disperse them (AP 1982).
+
+{{< figure src="north_kingston_1982_3_22.png" alt="Police use pepper fogger on striking workers on their knees and bent over outside a factory" caption="Police fogging striking workers, North Kingston RI 3/22/1982; AP Wirephoto" width="500px">}}
+
+
 
 <br>
 

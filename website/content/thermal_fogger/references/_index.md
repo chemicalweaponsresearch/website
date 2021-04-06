@@ -18,17 +18,23 @@ Allen, R. B. 1975a. Jurors hear witness to prison gas death.  Daily Oklahoman (O
 
 Allen, R. B. 1975b. Unavailability of medical aid at "Rock" cited. The Daily Oklahoman (Oklahoma City, Oklahoma) 10 December 1975.
 
-Associated Press. 1969a. Negroes and police battle in Illinois. 11 August 1969. Cited from the Palladium-Item (Richmond, Indiana) 11 August 1969.
+Associated Press. 1969a. Negroes and police battle in Illinois. 11 August 1969. Sourced from the Palladium-Item (Richmond, Indiana) 11 August 1969.
 
 Associated Press. 1969b. Pepper fogger stops unruly youth in Seattle. 17 August 1969.
 
-Associated Press. 1972a. Thousands demonstrate against mines. 11 May 1972. Cited from the Argus-Leader (Sioux Falls, South Dakota) 11 May 1972.
+Associated Press. 1972a. Thousands demonstrate against mines. 11 May 1972. Sourced from the Argus-Leader (Sioux Falls, South Dakota) 11 May 1972.
 
-Associated Press. 1972b. Guards arrive on campus at Minnesota. 11 May 1972. Cited from the Argus-Leader (Sioux Falls, South Dakota) 11 May 1972.
+Associated Press. 1972b. Guards arrive on campus at Minnesota. 11 May 1972. Sourced from the Argus-Leader (Sioux Falls, South Dakota) 11 May 1972.
+
+Associated Press. 1974. Melee breaks out at NHRA Nationals. 2 September 1974. Sourced from the Courier (Waterloo, Iowa) 2 September 1974 and the Billings Gazette (Billings, Montana) 3 Septemer 1974.
+
+Associated Press. 1982. Protest at factory. 23 March 1982. Sourced from the Lexington Herald (Lexington, Kentucky) 23 March 1982.
 
 Coffey, I. 1975a. Veteran guard terms gassing "unjustified". The Daily Oklahoman (Oklahoma City, Oklahoma) 26 June 1975.
 
 Coffey, I. 1975b. Trio gives testimony in fatal gassing trial. The Daily Oklahoman (Oklahoma City, Oklahoma) 27 June 1975.
+
+Courier-Journal. 1982. Fire-training smoke wasn't tainted. The Courier-Journal (Louisville, Kentucky). 10 January 1982.
 
 Eckhold, L. 1971. Offer $5,000 reward for Iowa City blast arrests; Protest leaders schedule workshops aimed at U of I. Des Moines Register (Des Moines, Iowa) 8 May 1971.
 
@@ -43,6 +49,8 @@ Hobbs, C. 1974. Jury to probe prison gassing. The Daily Oklahoman (Oklahoma City
 Johnson, J. 1974. Permanent gassing ban under study. The Daily Oklahoman (Oklahoma City, Oklahoma) 25 May 1974.
 
 Johnson, J. 1975. Gassing death jury winds up testimony. The Daily Oklahoman (Oklahoma City, Oklahoma) 18 January 1975.
+
+Judd, A. 1981. State fire marshal begins proble into illness during rescue session. The Courier-Journal (Louisville, Kentucky). 22 December 1981.
 
 Lehrer, G. H. 1968. Viet Cong Tunnels. The Military Engineer. Vietnam Commemorative Issue. 61 - 63. First Published July-August 1968.
 
@@ -62,6 +70,8 @@ Spicknall, T. E. 1969. Civilian Repairs and Utilities in the Combat Zone. The Mi
 
 Star Tribune. 1972. Guard moves to 'U' after antiwar violence. Star Tribune (Minneapolis, Minnesota) 11 May 1972.
 
+Tampa Bay Times. 1974. Abductor collects payment, slays two. Compiled from AP, UPI Wires. Tampa Bay Times (St. Petersburg, Florida), 18 July 1974.
+
 United Press International. 1968. Berkeley Violent. 31 August 1968.
 
 United Press International. 1970. Ex-lawman shot because "not practical to arrest". 13 October 1970.
@@ -69,6 +79,10 @@ United Press International. 1970. Ex-lawman shot because "not practical to arres
 United Press International. 1975a. In prison probe -- US grand jury indicts officers. 28 January 1975. Sourced from the Sapulpa Daily News (Sapulpa Oklahoma) 28 January 1975.
 
 United Press International. 1975b. US jury aquits prison guards. 11 July 1975. Sourced from the Sapulpa Daily News (Sapulpa Oklahoma) 11 July 1975.
+
+United Press International. 1976. New Year's Revelers, Police Clash. 2 January 1976. Sourced from the Tampa Tribune (Tampa, Florida) 2 January 1976.
+
+United Press International. 1981. Prisoners moved after disturbance. 7 July 1981. Sourced from the Tallahassee Democrat (Tallahasee, Florida) 7 July 1981.
 
 US Army. 1969. Operations Report Lesson Learned. Report 9-66. 
 
@@ -86,11 +100,13 @@ Yetzer, C., B. Smith, P. Sheeran, L. Harris, and D. Pollock. 1971. Police use te
 
 ## Photography Credits
 
-Associated Press. 1969. Police use a pepper fogger and other weapons to clear a University plaza, Berkeley CA 02/21/1969. AP Wirephoto. 21 February 1969.
+Associated Press. 1969. Police use a pepper fogger and other weapons to clear a University plaza, Berkeley CA 2/21/1969. AP Wirephoto. 21 February 1969.
 
-Associated Press. 1969. National guardsmen use a pepper fogger and other weapons on striking students, Berkeley CA 02/28/1969. AP Wirephoto. 28 February 1969.
+Associated Press. 1969. National guardsmen use a pepper fogger and other weapons on striking students, Berkeley CA 2/28/1969. AP Wirephoto. 28 February 1969.
 
-Associated Press. 1969. View from behind of the police using a pepper fogger on striking students, Berkeley CA 02/28/1969. AP Wirephoto. 28 February 1969.
+Associated Press. 1969. View from behind of the police using a pepper fogger on striking students, Berkeley CA 2/28/1969. AP Wirephoto. 28 February 1969.
+
+Associated Press. 1982. Police fogging striking workers, North Kingston RI 3/22/1982. AP Wirephoto. 23 March 1982.
 
 Brown, D. 2020. US DHS agent deploying chemical agent via thermal fogger, Portland OR 7/29/2020. https://twitter.com/dougbrown8/status/1288727075197657088/photo/1
 
