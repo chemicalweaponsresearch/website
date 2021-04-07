@@ -1,7 +1,7 @@
 ---
-summary: Foreward
-title: Foreward
-linktitle: Foreward
+summary: Foreword
+title: Foreword
+linktitle: Foreword
 type: book
 
 weight: 1
@@ -10,7 +10,7 @@ weight: 1
 <br>
 
 
-## Land Acknowledgement
+## Land Acknowledgment
 
 This work's impetus comes from present-day Portland, Oregon, United States of America -- the Indigenous land of the Chinook people, who were colonized and spread across multiple federally recognized tribes in Oregon, Washington and Idaho including Cowlitz, Siletz, Wasco, and Yakima.
 The events catalouged in this booklet occur at many locations across the present-day USA and internationally, and thus specific land acknowledgements are included with content.
@@ -49,3 +49,9 @@ I hope that by shining a light on his story now, more people will come to unders
 This booklet is based on a variety of sources (cited within) past and present, and to the journalists and photographers: thank you for sharing your work with the world. 
 
 I have no idea how many people have been involved in digitizing historical newspapers, as their names are never on anything, but y'all are fantastic and I appreciate you so much.
+
+Sandra Simonis provided significant help with writing alt-text for images.
+
+## Contribute Information 
+
+If you are aware of incidents where a pepper fogger was used to deploy chemical weapons that we have not included, please [reach out](/contact/)!

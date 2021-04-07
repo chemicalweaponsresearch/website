@@ -19,7 +19,7 @@ The impacts of the fog quickly impacted residents in the neighborhood within the
 
 ## Berkeley CA, August 31 1968
 
-{{< figure src="berkeley_1968_08_31.png" alt="A police officer uses a thermal fogger on protesters walking away" caption="Deployment of a thermal fogger by police in Berkeley CA, 8/31/1968; UPI Telephoto" width="500px">}}
+{{< figure src="berkeley_1968_08_31.png" alt="B/W newspaper clipping. To left is an officer wearing long pants, long sleeved shirt, and a helmet walking forward carrying a fogger in the right hand. The fogger is blowing fog through a tube and a cloud is forming. Background is a storefront window and door. To the right 2 people are moving away from the fog, leaning on one another, and covering their faces with their hands." caption="Deployment of a thermal fogger by police in Berkeley CA, 8/31/1968; UPI Telephoto" width="500px">}}
 
 A demonstration was called by the Young Socialist Alliiance, Independent Socialist Club, and the Black Panther Party in solidarity with anti-war protesters in Chicago who the police had brutalized.
 In response, police brutalized the protesters, including use of the pepper fogger, a "new police weapon... which produced a gas that caused sneezing" (UPI 1968).
@@ -33,9 +33,9 @@ Deployment of the thermal fogger was covered in newspapers around the country in
 Durham Police broke up the "Allen Building Demonstration" on the campus of Duke University in Durham using a variety of weapons, including a thermal fogger (Schreiber et al. 1971).
 The police reportedly chased protesters across campus with the fogger, including using it inside Duke Chapel (Schreiber et al. 1971).
 
-{{< figure src="durham_1969_02_13_1.jpg" alt="A police officer uses a thermal fogger on protesters" caption="Deployment of a thermal fogger by police on Duke Campus, Durham NC, 2/13/1969; UPI Telephoto" width="500px">}}
+{{< figure src="durham_1969_02_13_1.jpg" alt="B/W Image: One person wearing gas mask and helmet, centered, stepping to the right. Person is holding slim white club in left hand and pepper-fogger in right hand. Fogger is pointing forward and a white cloud is surrounding the person to the front, back, and behind. The remaining background is black." caption="Deployment of a thermal fogger by police on Duke Campus, Durham NC, 2/13/1969; UPI Telephoto" width="500px">}}
 
-{{< figure src="durham_1969_02_13_2.jpg" alt="Police in riot gear and carrying pepper-fogger confront crowd from front steps of Allen Building" caption="Police with pepper fogger on Duke campus, Durham NC 2/13/1969; UPI Telephoto" width="500px">}}
+{{< figure src="durham_1969_02_13_2.jpg" alt="B/W Image: Background has brick building with steps. In front of the building from center to right, a line of 5 police officers facing front and wearing helmets & gas masks holding slim white clubs about a yard long. They are standing with legs apart and clubs in both hands in front of their bodies. On the left 5 officers similarly dressed, facing towards one another. Four slim clubs are visible, and one officer is holding what appears to be a fogger in one arm hanging down at the side." caption="Police with pepper fogger on Duke campus, Durham NC 2/13/1969; UPI Telephoto" width="500px">}}
 
 <br>
 
@@ -43,7 +43,7 @@ The police reportedly chased protesters across campus with the fogger, including
 
 Police deployed a fogger to clear demonstraters including striking students from outside a University Regents and Sproul Hall plaza on the University of California campus. 
 
-{{< figure src="berkeley_1969_02_21.jpg" alt="Police use pepper fogger to create cloud of tear gas as they move on strikers to clear Sproul Hall plaza" caption="Police use a pepper fogger and other weapons to clear a University plaza, Berkeley CA 2/21/1969; AP Wirephoto" width="500px">}}
+{{< figure src="berkeley_1969_02_21.jpg" alt="B/W newspaper clipping. Four people walking towards camera wearing helmets with face shields. Person on the left wearing white shirt and tie has several items hanging from belt. In right hand carrying radio with extended antenna. On right side person dressed in all black standing with a wide stance and holding pepper-fogger at hip height in right hand aimed forward. In center two more people dressed in all black, one with a short stick or club in left hand. Background is mostly cloudy with someone behind white shirt person, holding some sort of stick aloft.  Glimpses of additional bodies are visible in the cloudy background." caption="Police use a pepper fogger and other weapons to clear a University plaza, Berkeley CA 2/21/1969; AP Wirephoto" width="500px">}}
 
 This deployment was covered across the country and in Canada on February 21 [Press-Telegram (Long Beach, California), Red Deer Advocate Red Deer, Alberta, Canada), The Sumter Daily Item (Sumter, South Carolina), The New Mexican (Santa Fe, New Mexico), The Leader-Post (Regina, Saskatchewan), The Jackson Sun (Jackson, Tennessee), and The Daily Tribune (Wisconsin Rapids, Wisconsin)] and 22 [Janesville Daily Gazette (Janesville, Wisconsin) and Messenger-Inquirer (Owensboro, Kentucky)], 1969.
 
@@ -53,9 +53,9 @@ This deployment was covered across the country and in Canada on February 21 [Pre
 
 The following week, the police were joined by California National Guard troops to attack strikers, and continued to use the pepper fogger. 
 
-{{< figure src="berkeley_1969_02_28_1.jpg" alt="Guardsmen with bayonetted rifles and sheriff's deputies with tear and and pepper fogger walking through UC campus" caption="National guardsmen and police use a pepper fogger and other weapons on striking students, Berkeley CA 2/28/1969; AP Wirephoto" width="500px">}}
+{{< figure src="berkeley_1969_02_28_1.jpg" alt="Guardsmen with bayonetted rifles and sheriff's deputies with tear and and pepper fogger walking through UC campus: B/W newspaper clipping:  Eight people in masks, shields, and tied boots walking from left to right, the one in front wearing a spray fogger strapped on back and holding the hose and nozzle in front. A cloud of fog is spraying from the nozzle. The second person is carrying a bayoneted rifle upright. The others are only partially visible as they are passing behind a tree. On the right ahead of the others an additional helmeted person can be seen turning towards the left. Two slim trees are in the foreground." caption="National guardsmen and police use a pepper fogger and other weapons on striking students, Berkeley CA 2/28/1969; AP Wirephoto" width="500px">}}
 
-{{< figure src="berkeley_1969_02_28_2.jpg" alt="View from behind of the police using a pepper fogger on striking students" caption="View from behind of the police using a pepper fogger on striking students, Berkeley CA 2/28/1969; AP Wirephoto" width="500px">}}
+{{< figure src="berkeley_1969_02_28_2.jpg" alt="Four people walking away from camera, wearing helmets and holsters. Lead person has a fogger on their back and is holding the hose on the right spraying a fog ahead of them. Person on the right is carrying a bayoneted rifle raised above the left shoulder. The four are walking into the fog they’ve produced. There are some small trees to the right." caption="View from behind of the police using a pepper fogger on striking students, Berkeley CA 2/28/1969; AP Wirephoto" width="500px">}}
 
 This deployment was covered in the Miami News (Miami, Florida) and the Press and Sun-Bulletin (Binghamton, New York) on March 1st 1969.
 
@@ -87,7 +87,7 @@ Witnesses recounted that the machine was "highly effective", filling "2-3 blocks
 Although undated, this photograph printed in The Delta Democrat-Times (Greenville, Mississippi Thursday) on November 20, 1969 references a "recent" use of the fogger on students. 
 Bolstered by the well-reported use of the fogger on students in 1971, this event appears credible. 
 
-{{< figure src="san_bernardino_1969_xx_xx.jpg" alt="Police use a pepper fogger on a crowd of students at San Gordonio High School" caption="Police use a pepper fogger on a crowd of students at San Gordonio High School, San Bernardino 1969; UPI Photo" width="500px">}}
+{{< figure src="san_bernardino_1969_xx_xx.jpg" alt="B/W faded image: To the left is a person wearing a uniform with a patch on the shoulder and a helmet. In their right hand is the nozzle to a fogger and it appears to be emitting fog. There is a white fog cloud covering most of the rest of the image." caption="Police use a pepper fogger on a crowd of students at San Gordonio High School, San Bernardino 1969; UPI Photo" width="500px">}}
 
 <br>
 
@@ -163,7 +163,7 @@ Versions of an AP article describing the incident were published in The Courier 
 New Year's Eve 1975 was apparently quite raucous in Florida, as many cities experienced celebrations that got out-of-hand enough to elicit police use of force (UPI 1976).
 In Ft. Lauderdale, revelers pulled down at traffic light and police deployed multiple foggers on a crowd of 2,500 on the beach (UPI 1976).
 
-{{< figure src="ft_lauderdale_1975_12_31.png" alt="Police walking towards the camera person down a street, carrying two pepper foggers and other weapons." caption="Police carrying pepper foggers towards a crowd in the street, Ft Lauderdale, FL 12/31/1975; UPI Photo" width="500px">}}
+{{< figure src="ft_lauderdale_1975_12_31.png" alt="B/W image: Two people in foreground wearing helmets and face shields with gas masks and uniforms with short sleeves walking towards the camera, carrying boxy looking tools with nozzles pointing forward, with both hands. Person behind, also in short sleeve uniform, helmet, and gas mask carrying slim sabre or rod across the body. Behind these people seem to be more people but there are no clear details." caption="Police carrying pepper foggers towards a crowd in the street, Ft Lauderdale, FL 12/31/1975; UPI Photo" width="500px">}}
 
 
 The mayhem was noteworthy enough to garner publication in the Berkeley Gazette (Berkeley, California) as well as the Tampa Tribune (Tampa, Florida) (UPI 1976).
@@ -188,27 +188,62 @@ Residue tests later revealed no unexpected compounds (Courier-Journal 1982), ind
 <br>
 
 
-## North Kingston RI, March 22 1982
+## North Kingstown RI, March 22 1982
 
-The Brown and Sharpe company called in Rhode Island State Police officers to help try to break a (at the time) 22-long strike at their factory in North Kigston, Rhode Island (AP 1982). 
-The police deployed tear gas via a pepper fogger on 75 strikers blocking the main entrance to the tool factory, and were able to disperse them (AP 1982).
+The Brown and Sharpe company called in local police and Rhode Island State Police officers to help try to break a (at the time) 22-long strike at their factory in North Kigston, Rhode Island (AP 1982, Carbone 2017). 
+A North Kingstown officer named TJ Varone deployed tear gas via a pepper fogger on a group of 75 people, primarily workers' wives and Brown University students, that was blocking the main entrance to the tool factory  (AP 1982, Carbone 2017).
+The picketers braved the gas for a considerable amount of time, requiring close-range fogging to finally disperse them (Carbone 2017).
 
-{{< figure src="north_kingston_1982_3_22.png" alt="Police use pepper fogger on striking workers on their knees and bent over outside a factory" caption="Police fogging striking workers, North Kingston RI 3/22/1982; AP Wirephoto" width="500px">}}
+The fogging did not, however, break the strike (Carbone 2017).
 
+{{< figure src="north_Kingstown_1982_3_22.png" alt="B/W newspaper clipping: To the left there are several people crouched on the ground with their heads down and covered. Behind them is a small crowd of people turning and moving away. To the right are three officials in helmets and masks facing the people on the ground and holding a fogger in front that is spraying a cloud of fog right over those on the ground." caption="Police fogging striking workers, North Kingstown RI 3/22/1982; AP Wirephoto" width="500px">}}
 
+Newspaper and television coverage of the fogging circled the globe (Carbone 2017).
 
 <br>
 
 ## Portland OR, July 29 2020
 
+At the beginning of July 2020, then-president Trump deployed Department of Homeland Security agents to "protect" federal property in Portland, OR (Homeland Security 2020, Flanigan 2020, Trump 2020).
+During the final days of the visible presence and response of federal agents in Summer 2020, they unveiled their thermal fogger, which has been identified through photos as an [IGEBA TF35](https://www.nixalite.com/product/igeba-tf-35) thermal fogger from Nixalite of America Inc.
+This machine is designed and marketed for bird control, and while "_training tool for military/law enforcement_" is listed among its uses (Nixalite 2009a), its safety requirements explicitly state: 
+
+> "_**19. Do not fog directly against persons...During operation keep distance of minimum [10 ft].**_"
+
+(Nixalite 2009b).
+
+{{< figure src="portland_2020_07_29.jpg" alt="Fully riot-geared and for some reason in green camo US Homeland Security agents (to the middle and the left of the photo) behind a row of two-foot tall, one-foot radius metal posts, behind a metal grate wall over 7 feet tall with metal support beams and concrete pylon buttressing. In the front of the left side is an agent holding a plastic clear riot shield, through which you can see a patch that say 'Border Patrol Federal Agent' in yellow and some insignia patches as well. In the middle are the agents in camo, one with a hand on the shoulder of another who is operating a thermal fogger machine shooting gas through the fence. The machine is maybe four or five feet long and has a body not unlike a bush whacker with a two-cycle engine, but fueling a vaporizer instead of a rotor. The agent is holding the machine with their right hand visibly and there is a black strap across their shoulder holding it up. The machine is mostly shiny metal, although the tip is showing signs of corrosion (no surprise based on the compounds and heat) and the supports of the body are a bright green. source: https://twitter.com/dougbrown8/status/1288727075197657088/photo/1" caption="US DHS agent deploying chemical agent via thermal fogger, Portland OR, 7/29/2020; D. Brown" width="500px">}}
+
 <br>
 
 ## Portland OR, October 17 2020
+
+While the thermal fogger hasn't been deployed at the Courthouse in Portland since July 29 2020, it has been used repeatedly by Department of Homeland Security agents at the private property US Immigration and Customs Enforcement rents to use as a holding center for deportees in South Waterfront neighborhood (Simonis, personal observation).
+
+The first of such deployments occurred during the fall of 2020.
+
+
+{{< figure src="portland_2020_10_17.png" alt="One person in green protective gear, wearing a bulletproof vest with weapons strapped to the body and wearing a helmet and gas mask is walking to the left carrying a fogger in the right hand arm extended down, nozzle pointing forward. A cloud of gas is coming from the nozzle. Next to them is someone dressed all in black with a bullet proof vest with the word POLICE across the back, also wearing a helmet and gas mask. It is night and there are additional clouds of gas and the shapes of people in the background. source: https://twitter.com/MasonLakePhoto/status/1317869903345414144" caption="US DHS agent deploying chemical agent via thermal fogger, Portland OR, 10/17/2020; M. Lake" width="500px">}}
 
 <br>
 
 ## Portland OR, January 20 2021
 
+The same fogger (or at least the same model) was again brought out at the ICE rental property in response to a protester spray painting a piece of plywood tacked outside the building (Simonis, personal observation). 
+
+{{< figure src="portland_2021_01_20.png" alt="Night in a city, building lights in the background. One person standing alone in the center of a road, shown from the waist to the ankles. The person is wearing work pants with covered pockets at the thighs and calves, long sleeve shirt, and a glove on the right hand. In the left hand they are gripping the handle of a neon green fogger tool. The long black nozzle, covered with a wire cage, projects backwards and the motor is towards the front. It is being held at hip height; the arm holding it is relaxed down. source: https://twitter.com/MaranieRae/status/1352394871080816641/photo/1" caption="US DHS holding thermal fogger, Portland OR, 1/20/2021; M. Staab" width="500px">}}
+
+
 <br>
 
 ## Portland OR, January 23 2021
+
+
+
+{{< figure src="portland_2021_01_23_1.png" alt="Night time with the light from a street light visible in the background. Two officers dressed in full protective gear with bulletproof vests holding supplies on, with the word POLICE stenciled in yellow. They are both wearing helmets and gas masks. The nearer one is holding a gas fogger in the right hand. Thefogger looks like a long tube between 3 and 4 feet long with a handle and motor parts near the back. The tube is covered with a wire cage until about the last half foot, which is a plain and narrower tube. Behind these two officers are some dimly lit buildings and one or two other officers but they are not clear. source: https://twitter.com/MathieuLRolland/status/1353427314348986373/photo/1 " caption="US DHS agent holding thermal fogger, Portland OR, 1/23/2021; M. Lewis-Rolland" width="500px">}}
+
+
+
+{{< figure src="portland_2021_01_23_2.png" alt="Nine people wearing full protective gear including helmets and gas masks standing spread out across a street at night. One is holding a gas fogger in one hand and gas is spewing and a cloud is forming in front of them. There is also some gas cloud behind the group. All of them seem to be wearing weapons on their gear but details are not clear. It is night. There is a grey building in the background with a red door and red trim. A white stripe on the roadway has the words MELT ICE spray painted on it. source: https://twitter.com/MathieuLRolland/status/1353427325405126656/photo/3" caption="US DHS agent deploying chemical agent via thermal fogger, Portland OR, 1/23/2021; M. Lewis-Rolland" width="500px">}}
+
+
