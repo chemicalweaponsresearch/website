@@ -49,6 +49,11 @@
   weight = "31"
   parent = "reports"
 
+[[main]]
+  name = "Thermal Fogger"
+  url = "/thermal_fogger/"
+  weight = "32"
+  parent = "reports"
 
 [[main]]
   name = "Munitions"
