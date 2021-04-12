@@ -52,6 +52,7 @@ HC is a heavy munitions smoke designed by the US Army Chemical
 - *"Highly Toxic" Smoke Grenades Deployed at Portland Protests*. 2020-10-20. C. Vaughn. [Portland Tribune](https://pamplinmedia.com/pt/9-news/484862-390719-sinister-smoke) and [KOIN](https://www.koin.com/news/protests/military-grade-hc-smoke-used-against-portland-protesters/).
 - *Scientists Identified a Green, Poisonous Gas Used By Federal Agents on Portland Protesters*. 2020-12-06. L. Peskoe-Yang. [Future Human](https://futurehuman.medium.com/scientists-identified-a-green-poisonous-gas-used-by-federal-agents-on-portland-protesters-5b56ac20a624)
 - *Feds used toxic smoke grenades during summer protests in Portland, researcher finds* 2021-01-19. K. Williams. [The Oregonian](https://www.oregonlive.com/portland/2021/01/portland-researcher-finds-federal-agents-used-toxic-smoke-grenades-during-summer-protests.html?utm_medium=social&utm_campaign=oregonian_sf&utm_source=twitter) and [The Columbian](https://www.columbian.com/news/2021/jan/19/feds-used-toxic-smoke-grenades-during-summer-protests-in-portland-researcher-finds/).
+- *Police deployed potentially lethal chemicals during black lives matter protests*. 2021-02-11. L. Jadeed. [Truthout](https://truthout.org/articles/police-deployed-potentially-lethal-chemical-during-black-lives-matter-protests/) and [Salon](https://www.salon.com/2021/02/21/police-deployed-potentially-lethal-chemical-during-black-lives-matter-protests_partner/).
 
 <br>
 
