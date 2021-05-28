@@ -4,7 +4,7 @@ type: widget_page
 
 <small>
 
-Redirecting to built book at [thermalfogger.chemicalweaponsresearch.com](thermalfogger.chemicalweaponsresearch.com) ... 
+Redirecting to built book at [thermalfogger.chemicalweaponsresearch.com](https://thermalfogger.chemicalweaponsresearch.com) ... 
 
 </small>
 
