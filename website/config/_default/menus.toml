@@ -51,7 +51,7 @@
 
 [[main]]
   name = "Thermal Fogger"
-  url = "/thermal_fogger/"
+  url = "https://thermalfogger.chemicalweaponsresearch.com"
   weight = "32"
   parent = "reports"
 
