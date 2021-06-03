@@ -22,9 +22,6 @@ In response to the US Department of Homeland Security's (DHS) repeated use of [H
 
 <br>
 
-
-consider cutting this
-
 {{< figure src="hc_can_graphic.png" alt="Two panel image, left half is a photo of a green grenade canister with yellow writing that says CM Military Style Maximum Smoke HC Defense Technology with a halo effect around the can. right half is info: Hexachloroethance (HC) Smoke. Produces DEADLY Zinc Chloride gas, one grenade can kill 9 people, highly corrosive lung and skin irritant, acute delayed metal fume fever, carinogentic, defoliates trees, kills fish and other wildlife, bioaccumulates, has GHS symols for irritant, toxic, and environemtal toxin. us department of homeland security seplyed at least 25 grenades in the second half of  july in portland or" width="50%">}}
 
 
