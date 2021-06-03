@@ -1,0 +1,288 @@
+---
+summary: "Defense Technology timeline"
+widget: blank
+active: true
+headless: true
+weight: 1
+title: "Defense Technology Corporate History"
+design:
+  columns: "1"
+  spacing:
+    padding: ["50px", "0", "50px", "0"]
+bibliography: references.bib
+---
+
+# Defense Technology: A Corporate History
+
+<small> _Dr. Juniper L. Simonis (they/them/theirs)_ 
+
+
+<br> 
+
+[Defense Technology](https://www.defense-technology.com/) is the predominate manufacturer of [chemical munitions we have recovered in Portland since May 2020](/munitions_library) and their weapons are used by law enforcement agencies around the world.
+
+Over the course of my work studying the environmental and human impacts of Defense Technology's weapons, I became interested in understanding what this company was all about, where they came from, and who was profiting off of it.
+I started digging into their corporate structure and history, which is extensive and old, with tendrils reaching into Big Names in the weapons industry like the American classic [Smith and Wesson](https://en.wikipedia.org/wiki/Smith_%26_Wesson) and the British multinational [BAE](https://en.wikipedia.org/wiki/BAE_Systems).
+
+BAE itself is the product of a conglomeration of British aircraft ([The Marconi Company](https://en.wikipedia.org/wiki/Marconi_Company), [A.V. Roe and Company](https://en.wikipedia.org/wiki/Avro), [de Havilland](https://en.wikipedia.org/wiki/De_Havilland), [Hawker Siddley](https://en.wikipedia.org/wiki/Hawker_Siddeley), 
+[British Aircraft Corporation](https://en.wikipedia.org/wiki/British_Aircraft_Corporation)) and boat ([Supermarine](https://en.wikipedia.org/wiki/Supermarine), [Yarrow Shipbuilders](https://en.wikipedia.org/wiki/Yarrow_Shipbuilders), [Fairfield Shipbuilding and Engineering Company](https://en.wikipedia.org/wiki/Fairfield_Shipbuilding_and_Engineering_Company), [Vickers Shipbuilding and Engineering](https://en.wikipedia.org/wiki/Vickers_Shipbuilding_and_Engineering)) manufacturers.
+
+What follows is a (work-in-progress) timeline of the corporate history:
+
+
+### 1856
+
+Smith and Wesson 
+https://en.wikipedia.org/wiki/Smith_%26_Wesson
+
+
+### 1923
+
+  * [Federal Laboratories, Inc.](https://opencorporates.com/companies/us_de/148905) is incorporated February 27th in Delaware with primary operations in Pittsburgh, Pennsylvania (Open Corporates 2020).  https://www.leagle.com/decision/194711588ebtc115011027
+    * John W. Young is President 
+
+### 1926
+
+  * [Breeze Corporations, Inc.](https://en.wikipedia.org/wiki/Breeze-Eastern) is, from "obscure origins", created by Joseph J. Mascuch, a former bumper salesman by consolidating multiple manufacturing companies (Time 1939).  http://www.njinvent.org/1995-awardees.html
+    * Main focus is airplane parts
+
+W. W. Groves , presi dent of the Railway Audit & Inspection Co. , Inc. , notorious labor espionage and strikebreaking agency , was a director of Federal Laboratories from 1930 to 1935 and is still a stockholder of record.43
+https://play.google.com/books/reader?id=7EKGLIuL7T8C&hl=en&pg=GBS.PA15
+In spite of these medical authorities , John W. Young , president of Federal Laboratories , Inc. , testified before this committee that tear gas " can't injure . ”
+
+### 1937
+
+https://www.loc.gov/item/2016871287/
+
+  * [Breeze Corporations, Inc.](https://en.wikipedia.org/wiki/Breeze-Eastern) purchases vast majority of stock in [Federal Laboratories, Inc.](https://opencorporates.com/companies/us_de/148905), making it a subsidiary (Time 1939).
+
+https://www.leagle.com/decision/194711588ebtc115011027
+
+### 1938
+
+  * [Breeze Corporations, Inc.](https://en.wikipedia.org/wiki/Breeze-Eastern) elected two "representatives of a Wall Street group headed by Securities Salesman John J. Bergen [that] sold Breeze common stock" as directors (Time 1939).
+  
+  * SEC placed a stop order on Breeze Corporations, Inc. in August, asserting an overstatment of value potential (Time 1939).
+    * Amendments were made and the order is removed (Time 1939).
+
+### 1939
+
+  * US Attorney John T. Chaill arrested Mascuch on perjury charges in May (Time 1939).
+
+  * 79 stockholders in Breeze Corporations brought suit
+
+  * Mascuch is [found guilty on two counts of perjury](https://www.nytimes.com/1939/11/29/archives/mascuch-is-found-guilty-of-perjury-head-of-breeze-corporations.html) and [sentenced to two years in prison and charged a $4,000 fine](https://www.nytimes.com/1939/11/30/archives/mascuch-sentenced-to-2-years-in-prison-head-of-breeze-corporations.html) (New York Times 1939, New York Times 1939)
+
+shows again in 1941 https://www.newspapers.com/image/160337742/
+
+### 1958
+
+  * [Unifast Industries, Inc.](https://opencorporates.com/companies/us_ny/111660) is incorporated in New York June 16th (Open Corporates 2021).
+
+transtech https://opencorporates.com/companies/us_ca/C0426865
+
+### 1964
+
+  * [Safari Land Ltd Inc.](https://web.archive.org/web/20130313065453/http://www.safariland.com/Safariland-Story.aspx) is incorporated on April 6 by Neale Perkins in Ontario, California (Safariland 2013, Open Corporates 2021).
+
+### 1965
+
+  * General Ordnance Equipment Corporation incorporated  August 11 https://www.smithsonianmag.com/history/forgotten-history-mace-designed-29-year-old-and-reinvented-police-weapon-180953239/ 
+  https://opencorporates.com/companies/us_pa/137275
+  
+
+
+### 1969
+
+  * [American Body Armor & Equipment, Inc.](https://web.archive.org/web/20130313065453/http://www.safariland.com/Safariland-Story.aspx) is incorporated by Neale Perkins in New York, but located in Jacksonville, Florida (Safariland 2013, Open Corporates 2016, New York Secretary of State 2021, Reference for Business 2021).
+
+### 1980
+
+  * [American Body Armor & Equipment, Inc.](https://opencorporates.com/companies/us_fl/F01757) is incorporated in Florida with operations in Florida (Open Corporates 2021).
+
+### 1982
+
+  * TransTechnology Corporation buys Breeze  https://www.washingtonpost.com/archive/business/1982/05/28/transtech-seeks-to-buy-breeze-corp/e59c3bdf-fda4-43e6-a62c-4d1292875b55/
+
+### 1984
+
+  * [American Body Armor & Equipment, Inc. of New York](https://opencorporates.com/companies/us_ny/271616)(operating in Florida) is "merged out" and dissolved January 1st (Open Corporates 2016, New York Secretary of State 2021).
+
+  * American Body Armor & Equipment, Inc. (now incorporated and operating in Florida) incorporates a [branch in New York](https://opencorporates.com/companies/us_ny/885247)  (that operates in Florida) January 3rd (Open Corporates 2021, New York Secretary of State 2021).
+
+### 1985 
+
+  * [Unifast Industries, Inc.](https://opencorporates.com/companies/us_ny/111660) purchases [American Body Armor & Equipment, Inc.](https://www.encyclopedia.com/books/politics-and-business-magazines/armor-holdings-inc) (Bianco 2021).
+
+
+### 1987
+
+  * [Spotgallant Industries](https://businesssearch.ohiosos.gov/?=businessDetails/711748) is incorporated on November 4 in Ohio by Stanley Jaros (Open Corporates 2020).
+    * Renamed [Def-Tec Corporation](https://businesssearch.ohiosos.gov/?=businessDetails/711748) on November 16 (Ohio Secretary of State 2021, Open Corporates 2020).
+    manufactured chem weapons until 1992
+
+  * Smith and Wesson buys GOEC
+   transferred to new owner – Jon E. Goodrich - in April 1987, along with the rest of Smith & Wesson's chemical division. as    mark sport inc?
+
+
+### 1989
+
+  * [Unifast Industries, Inc.](https://opencorporates.com/companies/us_ny/111660) [offers public stock in American Body Armor & Equipment Inc](https://www.encyclopedia.com/books/politics-and-business-magazines/armor-holdings-inc), reducing their ownership share to 55.6% (Bianco 2021).
+
+
+### 1990
+
+  * [Defense Technology Corporation of America](https://wyobiz.wyo.gov/Business/FilingDetails.aspx?eFNum=110089074000219186072226019239214102109190238192) is incorporated in Wyoming December 19th (Wyoming Secretary of State 2021).
+
+
+### 1992
+
+  * [American Body Armor & Equipment, Inc.](https://www.referenceforbusiness.com/history2/41/Armor-Holdings-Inc.html) files for Chapter 11 Bankruptcy in May (Bianco 2021, Reference for Business 2021).
+
+  * Nina Navigation SA (sole shareholder) sells Def-Tec Corporation
+    * All shares are in the name Sandra Oliver
+
+
+  * Defense Technology "survives" a [merger](https://wyobiz.wyo.gov/Business/FilingDetails.aspx?eFNum=110089074000219186072226019239214102109190238192) December 29th (Wyoming Secretary of State 2021). 
+    * I believe the other party in the merger is Def-Tec, see Farago case
+
+
+### 1993
+
+  * [American Body Armor & Equipment, Inc.](https://www.referenceforbusiness.com/history2/41/Armor-Holdings-Inc.html) emerges from Chapter 11 Bankruptcy in September (Bianco 2021, Reference for Business 2021).
+
+  * [Mace Securities International, Inc.](https://www.encyclopedia.com/books/politics-and-business-magazines/mace-security-international-inc) is incorporated in Delaware September 16th by the [Corporation Trust Company](https://en.wikipedia.org/wiki/CT_Corporation) (Baxter 2021, Open Corporates 2021).
+   IPO
+   
+
+  * [Unifast Industries, Inc.](https://opencorporates.com/companies/us_ny/111660) is dissolved by proclamation September 29. (Open Corporates 2021).
+
+  
+
+
+### 1994 
+
+  * [Mace Securities International Inc.](https://www.encyclopedia.com/books/politics-and-business-magazines/mace-security-international-inc) [purchases Federal Laboratories](https://sec.report/Document/0000950123-96-003316/) from [TransTechnology Corporation]() (SEC 1996, Baxter 2021).
+
+
+### 1995
+
+  * Warren Kanders incorporates [Kanders Florida Holdings, Inc.](https://opencorporates.com/companies/us_de/2575144) in Delaware on December 22nd (Open Corporates 2020).
+
+
+### 1996
+
+  * [Kanders Florida Holdings](https://opencorporates.com/companies/us_de/2575144) acquires 66% of stock in [American Body Armor & Equipment, Inc.](https://www.referenceforbusiness.com/history2/41/Armor-Holdings-Inc.html) in January (Bianco 2021, Reference for Business 2021).
+    * The stock previously had been held by Clark Schwebel, Inc. and Hexcel Corporation, two suppliers of raw materials to the company (Bianco 2021).
+
+  * American Body Armor & Equipment, Inc. is re-branded [Armor Holdings, Incorporated](https://www.referenceforbusiness.com/history2/41/Armor-Holdings-Inc.html) on August 21st (Bianco 2021, Reference for Business 2021).
+
+  * Warren Kanders becomes CEO & Chair of Armor Holdings
+
+  * [Defense Technology Corporation of America](https://opencorporates.com/companies/us_de/2654009) is incorporated as a subsidiary of [Armor Holdings, Incorporated](https://www.referenceforbusiness.com/history2/41/Armor-Holdings-Inc.html) on August 20 in Delaware (Open Corporates 2021)
+  
+  * [Defense Technology Corporation of America](https://opencorporates.com/companies/us_wy/1990-000263776) operating in Wyoming changes name to XM Corporation and moves to Florida on October 1 (Open Corporates 2021, Wyoming Secretary of State 2021) to act as an "international distributor" of chemical weapons products for Armor Holdings.
+
+  * [Defense Technology Corporation of America (Of Delaware)](https://www.referenceforbusiness.com/history2/41/Armor-Holdings-Inc.html) buys assets of [Defense Technology Corporation of America](https://opencorporates.com/companies/us_wy/1990-000263776) with the sale finalized on October 10 for ~$5.5m in cash and stock as well as the assumption of certain liabilities (SEC 1996, Reference for Business 2021).
+
+  * [Def-Tech Corporation is dissolved by the state of Ohio for tax delinquency](https://businesssearch.ohiosos.gov/?=businessDetails/711748) on December 30 (Ohio Secretary of State 2021).
+
+
+
+
+### 1997
+
+  * Safariland LLC incorporated
+    * Location: Delaware
+    * This is the entity that currently owns the active trademarks
+    * Safariland LLC has incorporated nearly [30 branches](https://opencorporates.com/companies/us_de/2754430/statements/branch_relationship_subject?page=1) since (Open Corporates 2021).
+
+  * [Armor Holdings, Incorporated](https://www.referenceforbusiness.com/history2/41/Armor-Holdings-Inc.html) moves to Jacksonville, Florida in April (Reference for Business 2021).
+
+### 1998
+
+  * [Armor Holdings, Incorporated](https://www.referenceforbusiness.com/history2/41/Armor-Holdings-Inc.html) purchases Federal Laboratories from Mace Security International Inc. $5.2m [https://www.encyclopedia.com/books/politics-and-business-magazines/mace-security-international-inc]
+    * The trademark MACE for use in law enforcement market is included
+
+  * Defense Technology and Federal Laboratories are organized under the Manufactured Products Division of Armor Holdings
+
+  * Maui Acquisition Corp is founded
+
+  * Safariland Government Sales Inc is founded under Safari Land Ltd Inc
+
+### 1999
+
+  * [Armor Holdings, Incorporated](https://www.referenceforbusiness.com/history2/41/Armor-Holdings-Inc.html) purchases Safariland 
+
+  * [XM Corporation of Wyoming](https://wyobiz.wyo.gov/Business/FilingDetails.aspx?eFNum=110089074000219186072226019239214102109190238192) is dissolved by the state for tax delinquency on June 25 (Wyoming Secretary of State 2021).
+
+### 2000
+
+  * A [federal lawsuit](https://casetext.com/case/farago-v-def-tec-corp) by the family of William S. Farago highlights how Safariland uses the liability transfer among subsidiaries to mitigate legal consequences.
+    * Natick Massachusetts Police Department killed William S. Farago, who had a psychiatric disability, using a [Defense Technology MK-6 pepper sprayer](https://www.defense-technology.com/wp-content/uploads/2020/06/MK-6-Aerosol-Projector.pdf) in April of 1992 (Farago v. Def-Tec Corp, et al. 2000)
+
+### 2002
+
+  * Another [federal lawsuit](https://www.courtlistener.com/docket/4294796/gamradt-v-federal-laboratories/), brought by Timothy Gamradt, highlights how Safariland uses the liability transfer between Defense Technology Corporation of America of Wyoming and Defense Technology Corporation of America of Delaware (who does business in Wyoming) to mitigate legal consequences. 
+    * A training accident involving a [Defense Technology Hexacholorethane Smoke Grenade](https://www.defense-technology.com/wp-content/uploads/2020/06/Maximum-Coverage-HC-Smoke-Grenade_Military-Style.pdf) at a federal prison in Minnesota sickened dozens of officers and led to a lawsuit by one of them in particular, Timothy Gamradt (Gamradt v. Federal Laboratories, et al. 2002). See details in the [HC Press Conference](https://www.chemicalweaponsresearch.com/hc/press_conference.pdf) (Simonis 2021).
+
+
+### 2007
+
+  * BAE acquires [Armor Holdings, Incorporated](https://www.referenceforbusiness.com/history2/41/Armor-Holdings-Inc.html) from Kanders
+
+  * BAE names the "Armor Holdings Products Group" the "BAE System Product Group"
+
+  * Def-Tec (Spotgallant) unincorporated in Ohio by Sec of State due to failure to pay tax
+
+  * The letter is addressed to Donald Peace
+
+  *  2399 Forman Rd Rock Creek OH (Horizon Elastomeric Products)
+
+### 2008
+
+  * BAE names the "BAE Systems Product Group" the "Safariland Group"
+
+  * It’s their choice of the most recognizable brand in the holdings of Armor Holdings
+
+### 2009
+
+Safariland Government Sales Inc is a part of Safari Land Ltd Inc -- a wholly owned subsidiary that it subsumes https://businesssearch.sos.ca.gov/Document/RetrievePDF?Id=00468474-6332345
+  * Safariland Ltd Inc subsumes (and dissolves) Safari Land  (Jan 23) https://businesssearch.sos.ca.gov/Document/RetrievePDF?Id=00468474-7378391
+
+  * Safariland Ltd Inc was the sole shareholder 
+
+  * Safariland LLC merges with Safari Land Ltd Inc (Sept 25)
+
+  * Safariland LLC was the sole shareholder of Safariland Ltd Inc 
+
+### 2012
+
+  * Kanders founds Maui Acquisition Corp
+
+  * [BAE sells the Safariland Group to Maui Acquisition Corp](https://www.baesystems.com/en-us/article/bae-systems-announces-agreement-to-sell-safariland-business) for $124m (Safariland 2012, Cerullo 2019)
+
+  * [Kanders becomes chairman and CEO of Safariland](https://www.policemag.com/350568/bae-sells-safariland-to-former-ceo) (Police Magazine 2012).
+
+### 2020
+
+  * [Safariland comes under further public scrutiny after its weapons were used on protesters at the White House](https://www.cbsnews.com/news/tear-gas-maker-washington-d-c-protesters-millions-federal-government/) in June (Gandel 2020).
+
+  * [Safariland says it will divest Defense Technology "current management"](https://inside.safariland.com/news/safariland-group-divest-defense-technology/) (Basch 2020, Safariland 2020).
+
+  * Safariland LLC creates an Idaho Branch](https://opencorporates.com/companies/us_id/0003907481) on June 12th (Open Corporates 2021).
+
+  * Warren kanders and scott o’brien are the listed directors
+
+Despite publicly stating that they would complete the sale of Defense Technology to its "management team" in the third quarter of 2020 (Basch 2020, Safariland 2020), there is no clear indication that such a sale has happened.
+<br>
+
+
+This work is funded by [DAPPER Stats](https://www.dapperstats.com).
+
+<br>
+
+## References
+
+</small>
+

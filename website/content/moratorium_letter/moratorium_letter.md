@@ -134,6 +134,7 @@ Amelia Abreu, she/her; UX Night School, Teacher and Researcher, Founder
 Hazel Anderson, she/her; Michigan State University, Undergraduate Student  
 Megan Lynch, she/her; UC Davis, Masters student  
 Loretta Koll, M.Ed., she/her; Educator  
+Dr. Alia Dietsch, she/her; The Ohio State University, Assistant Professor  
 
 <br>
 

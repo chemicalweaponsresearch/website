@@ -9490,3 +9490,40 @@ h6 {
   margin-right: 3px;
   margin-top: 1px;
   margin-bottom: 1px; }
+
+/*************************************************
+ * Experience nothing has been changed in here yet
+ **************************************************/
+.exp-action {
+  font-weight: normal !important;
+  text-transform: none !important; }
+
+.exp-company {
+  text-transform: none !important;
+  font-weight: bold !important; }
+
+.exp-meta {
+  font-size: 0.8rem; }
+
+.experience .card-text,
+.experience .card-text p {
+  color: #000 !important;
+  font-size: 0.75rem !important; }
+
+.dark .experience .text-muted {
+  color: rgba(255, 255, 255, 0.8) !important; }
+
+.dark .experience .card-text,
+.dark .experience .card-text p {
+  color: #f8f8f2 !important; }
+
+.card .card-text p + ul {
+  margin-top: -1rem;
+  margin-bottom: 0; }
+
+.experience .m-2 .border,
+.experience .col.border-right {
+  border-color: #B6A9C7 !important; }
+
+.experience .m-2 .border.exp-fill {
+  background-color: #B6A9C7 !important; }

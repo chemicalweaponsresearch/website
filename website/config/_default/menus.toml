@@ -56,6 +56,30 @@
   parent = "reports"
 
 [[main]]
+  name = "Defense Technology"
+  url = "/defense_technology/"
+  weight = "33"
+  parent = "reports"
+
+[[main]]
+  name = "Terephthalic Acid"
+  url = "/tpa/"
+  weight = "34"
+  parent = "reports"
+
+[[main]]
+  name = "Stormwater"
+  url = "/stormwater/"
+  weight = "35"
+  parent = "reports"
+
+[[main]]
+  name = "Cottonwood"
+  url = "/cottonwood/"
+  weight = "36"
+  parent = "reports"
+
+[[main]]
   name = "Munitions"
   url = ""
   identifier = "munitions"
