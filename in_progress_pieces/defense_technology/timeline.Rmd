@@ -13,73 +13,15 @@ bibliography: references.bib
 linkcitations: true
 ---
 
-# Defense Technology: A Corporate History
-
-<small> _Dr. Juniper L. Simonis (they/them/theirs)_ </small>
-
-
-<small>
-
-[Defense Technology](https://www.defense-technology.com/) is the predominate manufacturer of [chemical munitions we have recovered in Portland since May 2020](/munitions_library) and their weapons are used by law enforcement agencies around the world.
-
-Over the course of my work studying the environmental and human impacts of Defense Technology's weapons, I became interested in understanding what this company was all about, where they came from, and who was profiting off of it.
-I started digging into their corporate structure and history, which is extensive and old, with tendrils reaching into Big Names in the weapons industry like the American classic [Smith and Wesson](https://en.wikipedia.org/wiki/Smith_%26_Wesson) and the British multinational [BAE](https://en.wikipedia.org/wiki/BAE_Systems).
-
 BAE itself is the product of a conglomeration of British aircraft ([The Marconi Company](https://en.wikipedia.org/wiki/Marconi_Company), [A.V. Roe and Company](https://en.wikipedia.org/wiki/Avro), [de Havilland](https://en.wikipedia.org/wiki/De_Havilland), [Hawker Siddley](https://en.wikipedia.org/wiki/Hawker_Siddeley), 
 [British Aircraft Corporation](https://en.wikipedia.org/wiki/British_Aircraft_Corporation)) and boat ([Supermarine](https://en.wikipedia.org/wiki/Supermarine), [Yarrow Shipbuilders](https://en.wikipedia.org/wiki/Yarrow_Shipbuilders), [Fairfield Shipbuilding and Engineering Company](https://en.wikipedia.org/wiki/Fairfield_Shipbuilding_and_Engineering_Company), [Vickers Shipbuilding and Engineering](https://en.wikipedia.org/wiki/Vickers_Shipbuilding_and_Engineering)) manufacturers.
 
-### Origins: Federal Laboratories, Inc.
-
-The history of Defense Technology involves significant contributions from other chemical weapons manufacturers, perhaps most notably Federal Laboratories, Inc..
-Indeed, the connection between the two companies persists visibly to this day, as some (expired, but still used and recovered in Portland OR during 2020) munitions bear the labels of both [](/munitions_library/)
-
-Federal Laboratories, Inc. was incorporated by John W. Young on February 27th 1923 in Delaware with primary operations in Pittsburgh, Pennsylvania [@FLIoc; @FLIvC]
 
 
-[Breeze Corporations, Inc.](https://en.wikipedia.org/wiki/Breeze-Eastern) was, from "obscure origins", created by inventor Joseph J. Mascuch, a former bumper salesman [@NJHoF; @Time1939].
-Mascuch created Breeze in 1926 (now publicly traded as BZC on the American Stock Exchange) by consolodating multiple manufacturing companies [@NJHoF].  
-
-
-In the inter-war era, Federal Labs found a large market for chemical weapons in private industry strike breaking [@Senate1939_6_3].
-Senate inquiries were launched into labor practices, including the use of chemical munitions, and John Young was called to testify [@Youngphoto; @Senate1939_6_3].
-Despite repeated testimony from medical authorities, Young kept a straight face while making satements like "tear gas can't injure" [@Senate1939_6_3].
-
-W. W. Groves, the president of the Railway Audit & Inspection Co., Inc. (a Pinkerton-style detective agency known for labor espionage and strikebreaking [@Senate1937_46_3]), was on the board of directors from 1930 to 1935 and held stock in the company after his departure [@Senate1939_6_3].
-
-
-In 1937, Breeze Corporations, Inc. purchased vast majority of stock in Federal Laboratories, Inc., effectively making it a subsidiary [@FLIvC; @Time1939].
-
-
-
-
-
-
-
-
-
-
-### 1938
-
-  * [Breeze Corporations, Inc.](https://en.wikipedia.org/wiki/Breeze-Eastern) elected two "representatives of a Wall Street group headed by Securities Salesman John J. Bergen [that] sold Breeze common stock" as directors (Time 1939).
-  
-  * SEC placed a stop order on Breeze Corporations, Inc. in August, asserting an overstatment of value potential (Time 1939).
-    * Amendments were made and the order is removed (Time 1939).
-
-### 1939
-
-  * US Attorney John T. Chaill arrested Mascuch on perjury charges in May (Time 1939).
-
-  * 79 stockholders in Breeze Corporations brought suit
-
-  * Mascuch is [found guilty on two counts of perjury](https://www.nytimes.com/1939/11/29/archives/mascuch-is-found-guilty-of-perjury-head-of-breeze-corporations.html) and [sentenced to two years in prison and charged a $4,000 fine](https://www.nytimes.com/1939/11/30/archives/mascuch-sentenced-to-2-years-in-prison-head-of-breeze-corporations.html) (New York Times 1939, New York Times 1939)
-
-shows again in 1941 https://www.newspapers.com/image/160337742/
 
 ### 1958
 
   * [Unifast Industries, Inc.](https://opencorporates.com/companies/us_ny/111660) is incorporated in New York June 16th (Open Corporates 2021).
-
-transtech https://opencorporates.com/companies/us_ca/C0426865
 
 ### 1964
 
@@ -125,6 +67,16 @@ transtech https://opencorporates.com/companies/us_ca/C0426865
   * Smith and Wesson buys GOEC
    transferred to new owner – Jon E. Goodrich - in April 1987, along with the rest of Smith & Wesson's chemical division. as    mark sport inc?
 
+
+  
+times tribune
+1990-06-10
+  Personal Security bought the "civilian rights to mace" in 1987
+  Def-Tec in Ohio owns "law enforcement rights to mace"
+  
+
+def tec is in rock creek
+SO IS SMITH AND WESSON CHEMICAL
 
 ### 1989
 

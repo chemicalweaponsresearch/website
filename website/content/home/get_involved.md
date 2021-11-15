@@ -18,8 +18,7 @@ design:
 Interested in getting hands on in your support? 
 There are so many ways to help out!
 
-There are countless research questions that could use answers, so if you're keen to science some stuff, please do!
-If you need more information or want to chat, please [reach out](/contact)!
+There are countless research questions that could use answers, so if you're keen to science some stuff, please [reach out](/contact)!
 
 We're currently working up descriptions of specific tasks or projects we could use help with, so stay tuned!
 [Contact us](/contact/) for more information in the meantime!

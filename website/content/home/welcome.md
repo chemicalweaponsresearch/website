@@ -16,11 +16,11 @@ cta:
   icon: user-plus
 ---
 
-# Chemical Weapons Research Consortium
+# Chemical Weapons Research Center
 
 <br>
 
-We are an interdisciplinary, international group of researchers and activists focused on understanding and communicating how chemical weapons affect people and the environment. 
+Advancing our understanding of how chemical weapons affect people and the environment. 
 
 <br>
 

@@ -1,6 +1,6 @@
-title = "Chemical Weapons Research Consortium"
+title = "Chemical Weapons Research Center"
 baseurl = "https://www.chemicalweaponsresearch.com/"
-copyright = "DAPPER Stats {year}"
+copyright = "Chemical Weapons Research Center {year}"
 
 enableGitInfo = false
 

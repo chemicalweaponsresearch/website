@@ -1,7 +1,7 @@
 
 [[main]]
-  name = "The Consortium"
-  identifier = "the_consortium"
+  name = "The Center"
+  identifier = "the_center"
   url = ""
   weight = "10"
 
@@ -10,20 +10,20 @@
   identifier = "about"
   url = "#about"
   weight = "11"
-  parent = "the_consortium"
+  parent = "the_center"
 
 [[main]]
   name = "Support"
   identifier = "support"
   url = "#support"
   weight = "12"
-  parent = "the_consortium"
+  parent = "the_center"
 
 [[main]]
   name = "Get Involved"
   url = "#get_involved"
   weight = "13"
-  parent = "the_consortium"
+  parent = "the_center"
 
 [[main]]
   name = "Letters"

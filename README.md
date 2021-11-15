@@ -1,2 +1,2 @@
 # website
-Website for the Chemical Weapons Research Consortium
+Website for the Chemical Weapons Research Center

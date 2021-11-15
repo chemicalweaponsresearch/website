@@ -17,7 +17,7 @@ design:
 <br>
 <small>
 
-We are a consortium of researchers [studying the impacts of chemical weapons](https://www.dapperstats.com/project/chemical_weapons/) use by law enforcement agencies in Portland, OR. 
+We are researchers [studying the impacts of chemical weapons](https://www.dapperstats.com/project/chemical_weapons/) use by law enforcement agencies in Portland, OR. 
 
 The extended use of chemical weapons (gasses, smokes, etc.) has already had a noticeable impact on the ecology of our city; we want to do what we can to swiftly mitigate the impact on human and environmental health. 
 Our long-term goal is to assess the likely impact of these residues on local ecosystems and mitigate the damage as much as possible.

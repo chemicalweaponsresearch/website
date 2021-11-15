@@ -62,7 +62,7 @@ With best regards,
 
 **Author**
 
-Dr. Juniper L. Simonis, they/them; [DAPPER Stats](https://www.dapperstats.com), Founder & Lead Scientist
+[Dr. Juniper L. Simonis](https://www.juniperlsimonis.com), they/them; [DAPPER Stats](https://www.dapperstats.com), Executive Director & Principal Scientist
 
 <br>
 
