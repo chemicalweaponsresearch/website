@@ -18,5 +18,5 @@ design:
 <br>
 
 
-###### Munitions used by city, county, state, and federal law enforcement against racial justice protesters in Portland, Oregon:
+###### Munitions used by city, county, state, and federal law enforcement against racial justice protesters in Portland, Oregon USA 2020-2021:
 

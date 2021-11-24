@@ -27,7 +27,7 @@ links:
   name: Spec Sheet 
   url: munitions/aerosol_ocsc/files/spec_sheet.pdf 
 image: 
-  alt_text: A hand is pictured holding a old silver can with orange writing that says `TD Aerosol OC/CS Defense Technology.` the canister is an aluminum cylinder, with a lip at the top of the tubing, and a spring mechanism that makes the canister resemble a grenade. 
+  alt_text: A hand holding an old silver can with orange writing that says `TD Aerosol OC/CS Defense Technology.` the canister is an aluminum cylinder, with a lip at the top of the tubing, and a spring and fuse mechanism that makes the canister resemble a grenade. 
 ---
 
 OC/CS Aerosol Grenade; item: 1050 aerosol oc cs grenade by Defense Technology® and containing CS, OC

@@ -26,9 +26,13 @@ In response to the US Department of Homeland Security's (DHS) repeated use of [H
 
 
 
-### Reports
+### Publications
 
-**[Quantifying use of lethal ZnCl2 on Black Lives Matter demonstrators by United States Homeland Security](https://doi.org/10.5281/zenodo.4059329)**
+**[Top US Chemical Weapons Company Selling Lethal Smoke as Non-Hazardous](https://blog.ucsusa.org/science-blogger/top-us-chemical-weapons-company-selling-lethal-smoke-as-non-hazardous/)**   
+October 14, 2021 in _[The Equation](https://blog.ucsusa.org/)_
+
+**[Quantifying use of lethal ZnCl2 on Black Lives Matter demonstrators by United States Homeland Security](https://doi.org/10.5281/zenodo.4059329)**  
+September 30, 2020 on _[Zenodo](https://zenodo.org/)_
 
 
 ### Media Outreach
