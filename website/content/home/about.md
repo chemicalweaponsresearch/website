@@ -20,7 +20,7 @@ Our projects are diverse, but we are brought together by an urgent need to under
 
 <br>
 
-[Dr. Juniper L. Simonis (they/them)](https://www.dapperstats.com/author/dr.-juniper-l.-simonis/), Lead Scientist [DAPPER Stats](https://www.dapperstats.com)  
+[Dr. Juniper L. Simonis (she/her)](https://www.dapperstats.com/author/dr.-juniper-l.-simonis/), Lead Scientist [DAPPER Stats](https://www.dapperstats.com)  
 *Executive Director*, *Principal Scientist*
 
 Dr. Kate Ellenberger (she/her), Owner [Heritech Consulting](https://heritechconsulting.com/)  
