@@ -62,7 +62,7 @@ With best regards,
 
 **Author**
 
-[Dr. Juniper L. Simonis](https://www.juniperlsimonis.com), they/them; [DAPPER Stats](https://www.dapperstats.com), Executive Director & Principal Scientist
+[Dr. Juniper L. Simonis](https://www.juniperlsimonis.com), she/her; [DAPPER Stats](https://www.dapperstats.com), Executive Director & Principal Scientist
 
 <br>
 
