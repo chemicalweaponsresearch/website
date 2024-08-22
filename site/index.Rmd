@@ -14,7 +14,3 @@ output:
 </center>
 <br>
 
-This site is **under construction**!  
-Check back soon for updates!
-
-<br>
