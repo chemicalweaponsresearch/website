@@ -26,9 +26,6 @@ Our projects are diverse, but we are brought together by an urgent need to under
 Dr. Kate Ellenberger (she/her), Owner [Heritech Consulting](https://heritechconsulting.com/)  
 *Collections Manager*
 
-Jake Dockter (he/him)  
-*Advocacy & Outreach*  
-
 James Croxton (he/him), Editor-In-Chief [Double Sided Media](https://doublesidedmedia.com/)  
 *Researcher*
 
